@@ -13,14 +13,19 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: '/img/icon-192x192.png' }],
     ['link', { rel: 'mask-icon', href: '/img/icon-512x512.png', color: '#8cce82' }],
     ['meta', { name: 'msapplication-TileImage', content: '/img/icon-192x192.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,645;0,700;1,400;1,800&display=swap' }],
   ],
   plugins: [
     [
       '@vuepress/pwa',
       {
         serviceWorker: true,
-        updatePopup: true
+        updatePopup: {
+          message: "Inhalte wurden geändert",
+          buttonText: "nachladen..."
+        }
       }
     ]
   ],

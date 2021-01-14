@@ -4,8 +4,12 @@ sidebar: false
 
 # Aktuell
 
-<warnung nachricht="Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
-Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an!" nTitel="Corona Lockdown" nTyp="warning" />
+::: danger Corona Lockdown!!!
+
+Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
+Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an! 
+
+:::
 
 ::: tip  Online-Training / Dienstags von 19-20 Uhr
 

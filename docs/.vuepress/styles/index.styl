@@ -1,9 +1,73 @@
 schatten()
-	box-shadow 2px 4px 3px #999 !important
+	box-shadow 2px 4px 3px #eee !important
+
+rundung()
+	border-radius .125rem
+
+.hideMe
+	display none
+
+html, body
+
+	font-family $fontA
+	h1, h2, h3, h4, h5, h6, .site-name
+		font-weight bold
+		font-style italic
+		color lighten($textColor, 15%)
+
+	@media (max-width $MQMobile)
+		font-size .9rem
+		
+.swal2-popup
+	font-family $fontA
 
 .googleMaps
 	max-width 100% !important
 	schatten()
+	rundung()
+
+.header-anchor
+	display none
+
+.navbar
+	background #efefef
+	.links
+		background #efefef !important
+
+.sidebar
+	background #efefef
 
 .custom-block
 	schatten()
+	rundung()
+
+	.custom-block-title
+		font-weight bold
+		font-style italic
+		font-size 1.25rem
+
+.custom-block.danger
+	background $danger
+	padding 1rem 2.5rem
+	color #eee
+	border none
+	.custom-block-title
+		color #fff
+		font-size 2rem
+
+.custom-block.tip
+	background $tip
+	padding 1rem 2.5rem
+	border none
+	color lighten($textColor, 10%)
+	.custom-block-title
+		color lighten($textColor, 10%)
+
+
+.custom-block.warning
+	background $warning
+	padding 1rem 2.5rem
+	border none
+	color lighten($textColor, 10%)
+	.custom-block-title
+		color lighten($textColor, 10%)

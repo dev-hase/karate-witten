@@ -16,24 +16,29 @@ Gōjū-Ryū Karate-Dō [ɡoːʒuːriːuː karatədoː] ist sowohl eine tradition
 
 ::: tip Allgemein
 
-info@karate-witten.de
+in<span class="hideMe">gojuryu</span>fo@karate-witten.de
 
 #### Abteilungsleitung
 
-Christian Bethführ christian.bethfuehr@karate-witten.de
+Christian Bethführ  
+christian.<span class="hideMe">gojuryu</span>bethfuehr@karate-witten.de
 
 #### Dojoleitung
 
-Ralf Budde 0176 / 2065 4766, ralf.budde@karate-witten.de
+Ralf Budde  
+0176 / 20<span class="hideMe">gojuryu</span>65 4766  
+ralf.<span class="hideMe">gojuryu</span>budde@karate-witten.de
 
 #### Geschäftsführung
 
-Ralf Baier 0162 / 284 3060, ralf.baier@karate-witten.de
+Ralf Baier  
+0162 / 28<span class="hideMe">gojuryu</span>4 3060  
+ralf.<span class="hideMe">gojuryu</span>baier@karate-witten.de
 
 #### Post
 
-Ralf Budde
-Natorp str. 39B
+Ralf Budde  
+Natorp str. 39B  
 44795 Bochum
 
 :::
