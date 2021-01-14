@@ -42,7 +42,7 @@ export default {
 <style lang="stylus" scoped>
         
     .video-box        
-        filter grayscale(7%) sepia(20%) contrast(95%) brightness(97%)
+        filter grayscale(37%) sepia(10%) contrast(95%) brightness(97%)
         cursor pointer
         min-width 100%
         margin 2.75rem 0
@@ -52,9 +52,6 @@ export default {
             max-width 100%
             background-size cover
             background-position center
-
-    .theme-default-content:not(.newSection) > .video-box
-        //box-shadow 4px 3px 4px #333
 
     .theme-default-content:not(.newSection) > .video-box:first-of-type
         margin-top .75rem !important
@@ -74,6 +71,7 @@ export default {
         background-repeat no-repeat
         background-size 33%
         background-position center
+        background-color $accentColor
         box-sizing border-box
         overflow hidden
 
@@ -105,12 +103,8 @@ export default {
         background-color #aaa
         background-blend-mode color-burn
 
-
-
-
     .youtube, iframe, .youtube:before 
         max-height 45vh !important  
-
 
         @media (min-width 800px)
             height 45vh !important
@@ -130,7 +124,6 @@ export default {
     @media (min-width 1200px)
         .video-box 
             max-width 75% !important
-            // margin 0 !important
 
         iframe
             min-height 35vh

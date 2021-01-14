@@ -49,6 +49,7 @@ module.exports = {
                 ['/kata/gekisai', 'Gekisai'],
                 ['/kata/saifa', 'Saifā'],
                 ['/kata/sanchin', 'Sanchin'],
+                ['/kata/senseru', 'Sansēru'],
             ]
         },
         {
