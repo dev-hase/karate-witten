@@ -6,5 +6,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vue-simple-alert": "^1.1.1"
   }
 }

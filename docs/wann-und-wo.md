@@ -4,13 +4,8 @@ sidebar: auto
 
 # Wann und Wo?
 
-::: danger Corona-Lockdown!!!
-
-Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
-
-Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an > [akuelle Infos](/#aktuell)
-
-:::
+<warnung nachricht="Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
+Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an > <a href=/#aktuell'>Aktuelles</a>" nTitel="Corona Lockdown" nTyp="warning" />
 
 ## Zeiten
 

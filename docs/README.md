@@ -4,13 +4,8 @@ sidebar: false
 
 # Aktuell
 
-::: danger Corona-Lockdown!!!
-
-Wegen des aktuellen Lockdowns entfällt das Präsenztraining!!!
-
-Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an.
-
-:::
+<warnung nachricht="Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
+Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an!" nTitel="Corona Lockdown" nTyp="warning" />
 
 ::: tip  Online-Training / Dienstags von 19-20 Uhr
 
@@ -26,7 +21,7 @@ D. h. ihr benötigt etwas Platz (ihr solltet einen Schritt zu allen Seiten mache
 Nicht nur das Training fehlt uns, sondern auch die kurzen Gespräche vor und nach dem Schwitzen.
 Wie geht es euch? Was macht ihr so ohne Training in der Halle? Schaltet Euch mit einem leckeren Getränk Eurer Wahl zu einem kurzen Quatschen zu uns - mit oder ohne Bild. Wir freuen uns euch wieder zu hören / sehen!
 
-[hier geht's zum Training...](https://www.gotomeet.me/SportRehaKemnade/tgw-karate-training)
+[hier geht's zum Treff...](https://www.gotomeet.me/SportRehaKemnade/tgw-karate-training)
 
 :::
 
