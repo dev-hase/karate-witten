@@ -17,7 +17,7 @@ html, body
 
 	@media (max-width $MQMobile)
 		font-size .9rem
-		
+
 .swal2-popup
 	font-family $fontA
 
@@ -25,6 +25,13 @@ html, body
 	max-width 100% !important
 	schatten()
 	rundung()
+
+iframe
+	display flex
+	min-width 100%
+	max-width 100%
+	width 100%
+	min-height 200px
 
 .header-anchor
 	display none
@@ -54,6 +61,8 @@ html, body
 	.custom-block-title
 		color #fff
 		font-size 2rem
+	@media (max-width $MQMobile)
+		padding .5rem 1.25rem
 
 .custom-block.tip
 	background $tip
@@ -62,7 +71,8 @@ html, body
 	color lighten($textColor, 10%)
 	.custom-block-title
 		color lighten($textColor, 10%)
-
+	@media (max-width $MQMobile)
+		padding .5rem 1.25rem
 
 .custom-block.warning
 	background $warning
@@ -71,3 +81,5 @@ html, body
 	color lighten($textColor, 10%)
 	.custom-block-title
 		color lighten($textColor, 10%)
+	@media (max-width $MQMobile)
+		padding .5rem 1.25rem

@@ -8,17 +8,37 @@ Die Taikyoku gehören im Gōjū-Ryū zur Kategorie der Fukyu-Gata (dt. „verbre
 
 Die Varianten der Taikyoku basieren auf folgenden Ständen (Tachi), Abwehrtechniken (Uke waza) und Angriffstechniken (Tsuki-waza, Uchi-waza bzw. Keri-waza):
 
-TAIKYOKU GEDAN
+## Taikyoku gedan
 
-- Shiko dachi, Haraiotoshi-Uke
-- Shiko dachi, Chūdan Oizuki
+* Shiko dachi, Haraiotoshi-Uke
+* Shiko dachi, Chūdan Oizuki
 
-TAIKYOKU CHŪDAN
+<YouTube videoid="DQkS-Wgur3E" />
 
-- Sanchin dachi, Chudan-uke (auch Yoko-uke oder Uchi-uke)
-- Zenkutsu dachi, Chudan Oizuki
+## Taikyoku chūdan
 
-TAIKYOKU JŌDAN
+* Sanchin dachi, Chudan-uke (auch Yoko-uke oder Uchi-uke)
+* Zenkutsu dachi, Chudan Oizuki
 
-- Sanchin dachi, Age-uke
-- Zenkutsu dachi, Jōdan Oizuki
+<YouTube videoid="lbUuaEcQ-60" />
+
+## Taikyoku jōdan
+
+* Sanchin dachi, Age-uke
+* Zenkutsu dachi, Jōdan Oizuki
+
+<YouTube videoid="19cqhTzDgxo" />
+
+## Taikyoku kake-uke
+
+* Sanchin dachi, Kake-uke
+* Zenkutsu dachi, Chūdan Mae-geri, Jōdan Mae-empi-uchi
+
+<YouTube videoid="3cb7OZQdsv0" />
+
+## Taikyoku mawashi-uke
+
+* Sanchin dachi, Mawashi-uke
+* Shiko dachi, Chūdan Mawashi-empi-uke, Jōdan Uraken-uchi, Haraiotoshi-uke, Chūdan Gyakuzuki
+
+<YouTube videoid="ZrPmmSEt0H4" />

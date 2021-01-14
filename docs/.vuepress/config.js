@@ -47,6 +47,8 @@ module.exports = {
             children: [
                 ['/kata/taikyoku', 'Taikyoku'],
                 ['/kata/gekisai', 'Gekisai'],
+                ['/kata/saifa', 'Saifā'],
+                ['/kata/sanchin', 'Sanchin'],
             ]
         },
         {
