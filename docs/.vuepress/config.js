@@ -38,7 +38,7 @@ module.exports = {
         { text: 'über uns', link: '/about.html' },
         { text: 'wann und wo', link: '/wann-und-wo.html' },
         { text: 'mitmachen', link: '/mitmachen.html' },
-        { text: 'Nachschlagewerk', link: '/grundtechniken/schlaege/' },
+        { text: 'Wiki', link: '/grundtechniken/schlaege/' },
 
     ],
     sidebar: [

@@ -7,6 +7,89 @@ rundung()
 .hideMe
 	display none
 
+body
+	background none 
+
+.landingPage
+
+	margin-bottom -1rem
+
+	background-image url('/img/cover.jpg')
+	background-size cover
+	background-repeat no-repeat
+	background-color #161819
+	background-attachment fixed
+	@media (max-width $MQMobile)
+		background-position -11rem 0
+	@media (min-width $MQMobile)
+		padding 0 7.5rem !important
+	@media (min-width 1100px)
+		padding 0 15rem !important
+
+	.navbar
+
+		border-bottom none
+		background #222
+
+		.logo
+			display none
+		.links
+			background #222 !important
+			color #efefef !important
+			display flex
+			width 100%
+			:hover
+				color #fff
+			.searchbox
+				align-item right
+		.nav-links
+			width 100%
+			display flex
+			justify-content flex-end
+			@media (max-width $MQMobile)
+				justify-content space-evenly
+
+
+	.search-box input
+		background-color #222
+		border 2px solid #333
+			
+
+
+	.site-name
+		display none
+
+
+	.hero 
+		#main-title, .description
+			display none
+
+		img
+			height 90vh
+			max-height 70vh !important
+			display block
+			width 100%
+			object-fit contain
+			padding 0 0 3rem 0 !important
+			@media (max-width $MQMobile)
+				padding 2rem 0 7rem 0 !important
+
+	.custom-block
+		box-shadow unset !important
+		opacity .94
+
+	.custom-block.warning, .custom-block.tip
+		p
+			color #333 !important
+
+
+	h1, h2, h3, h4, h5, h6
+		color #efefef !important
+		border-bottom unset
+	p
+		color #efefef
+
+
 html, body
 
 	font-family $fontA
@@ -36,13 +119,6 @@ iframe
 .header-anchor
 	display none
 
-.navbar
-	background #efefef
-	.links
-		background #efefef !important
-
-.sidebar
-	background #efefef
 
 .custom-block
 	schatten()

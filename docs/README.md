@@ -1,4 +1,7 @@
 ---
+home: true
+pageClass: landingPage
+heroImage: /img/cover-logo.png
 sidebar: false
 ---
 
