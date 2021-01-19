@@ -1,5 +1,6 @@
 .home
 	margin-top 100vh !important
+	box-shadow -5px -5px 16px #222
 
 #lpCover
 	position absolute
@@ -8,6 +9,8 @@
 	right 0
 	height 100vh
 	overflow hidden
+	box-shadow 0 5px 4px 1px #eee
+	border-bottom 1px solid #222
 
 .coverBg
 
@@ -25,6 +28,12 @@
 	min-width 100vw
 	min-height 190vh
 
+
+	@media (max-width $MQMobile)
+
+		height 100vh
+		min-height 100vh
+
 .coverMid
 
 	position absolute
@@ -40,6 +49,10 @@
 	min-width 100vw
 	min-height 100vh	
 
+	@media (max-width $MQMobile)
+
+		background-position -4.5rem
+
 .coverTop
 
 	position absolute
@@ -52,5 +65,15 @@
 
 	display block
 	box-sizing border-box
-	min-width 100%
-	min-height 100vh		
+	min-width 100vw
+	min-height 100vh
+	transform scale(.7) !important
+
+	@media (max-width $MQMobile)
+
+		background-size 55rem
+		background-repeat no-repeat
+		background-position bottom center
+		top 0	
+		max-width 90vw
+		transform scale(.95) !important
