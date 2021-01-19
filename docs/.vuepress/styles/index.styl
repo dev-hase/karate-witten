@@ -9,9 +9,15 @@ rundung()
 .hideMe
 	display none
 
-body
-	background none 
+body, .sidebar, .navbar
+	background-image url('/img/paper.png') 
 
+.navbar 
+	background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(246,246,243,1) 24%, rgba(246,250,236,1) 100%);
+	opacity .97
+
+.navbar .links
+	background-color unset !important
 
 html, body
 
@@ -46,6 +52,8 @@ iframe
 .custom-block
 	schatten()
 	rundung()
+	background-image url('/img/paper.png') 
+
 
 	.custom-block-title
 		font-weight bold
@@ -53,7 +61,7 @@ iframe
 		font-size 1.25rem
 
 .custom-block.danger
-	background $danger
+	background-color $danger
 	padding 1rem 2.5rem
 	color #eee
 	border none
@@ -62,9 +70,11 @@ iframe
 		font-size 2rem
 	@media (max-width $MQMobile)
 		padding .5rem 1.25rem
+	@media (min-width 1200px)
+		padding 1rem 5rem
 
 .custom-block.tip
-	background $tip
+	background-color $tip
 	padding 1rem 2.5rem
 	border none
 	color lighten($textColor, 10%)
@@ -72,9 +82,11 @@ iframe
 		color lighten($textColor, 10%)
 	@media (max-width $MQMobile)
 		padding .5rem 1.25rem
+	@media (min-width 1200px)
+		padding 1rem 5rem		
 
 .custom-block.warning
-	background $warning
+	background-color $warning
 	padding 1rem 2.5rem
 	border none
 	color lighten($textColor, 10%)
@@ -82,3 +94,5 @@ iframe
 		color lighten($textColor, 10%)
 	@media (max-width $MQMobile)
 		padding .5rem 1.25rem
+	@media (min-width 1200px)
+		padding 1rem 5rem

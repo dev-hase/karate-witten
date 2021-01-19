@@ -6,7 +6,7 @@
     <div id="lpCover">
       <span v-rellax="{ speed: -8 }" class="coverBg" />
       <span v-rellax="{ speed: -6 }" class="coverMid" />
-      <span v-rellax="{ speed: 1 }" class="coverTop" />
+      <span v-rellax="{ speed: 3 }" class="coverTop" />
     </div>
 
     <div
