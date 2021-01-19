@@ -7,6 +7,19 @@ schatten()
 rundung()
 	border-radius .125rem
 
+umrandung()
+	border-image-slice 45 38 36 56 
+	border-image-width 9px 9px 9px 9px 
+	border-image-outset 4px 4px 4px 4px 
+	border-image-repeat stretch stretch 
+	border-image-source url('/img/frame.png')
+
+	-webkit-border-image-slice 45 38 36 56 
+	-webkit-border-image-width 9px 9px 9px 9px 
+	-webkit-border-image-outset 4px 4px 9px 9px 
+	-webkit-border-image-repeat stretch stretch 
+	-webkit-border-image-source url('/img/frame.png') 
+
 .hideMe
 	display none
 
@@ -47,10 +60,9 @@ iframe
 
 
 .custom-block
-	schatten()
-	rundung()
-	background-image url('/img/paper.png') 
+	position relative
 
+	background-image url('/img/paper.png') 
 
 	.custom-block-title
 		font-weight bold
@@ -63,7 +75,8 @@ iframe
 	background-color $danger
 	padding 1rem 2.5rem
 	color #eee
-	border none
+	umrandung()
+
 	.custom-block-title
 		color #fff
 		font-size 2rem
@@ -75,7 +88,9 @@ iframe
 .custom-block.tip
 	background-color $tip
 	padding 1rem 2.5rem
-	border none
+
+	umrandung()
+	
 	color lighten($textColor, 10%)
 	.custom-block-title
 		color lighten($textColor, 10%)
@@ -87,7 +102,7 @@ iframe
 .custom-block.warning
 	background-color $warning
 	padding 1rem 2.5rem
-	border none
+	umrandung()
 	color lighten($textColor, 10%)
 	.custom-block-title
 		color lighten($textColor, 10%)
