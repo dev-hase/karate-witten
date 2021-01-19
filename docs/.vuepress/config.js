@@ -14,8 +14,6 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: '/img/icon-512x512.png', color: '#8cce82' }],
     ['meta', { name: 'msapplication-TileImage', content: '/img/icon-192x192.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
-    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' }],
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,645;0,700;1,400;1,800&display=swap' }],
   ],
   plugins: [
     [
@@ -31,9 +29,9 @@ module.exports = {
   ],
 
   themeConfig: {
-  	smoothScroll: true,   
+  
   	displayAllHeaders: true,
-  	logo: '/img/logo.svg',
+  	logo: '/img/logo.png',
   	nav: [
         { text: 'über uns', link: '/about.html' },
         { text: 'wann und wo', link: '/wann-und-wo.html' },

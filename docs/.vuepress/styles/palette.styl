@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+$fontA = 'Karla' sans-serif
+$fontB = 'Bangers', cursive;
+
 // colors
 $accentColor = #8cce82
 $textColor = #333
@@ -5,8 +12,6 @@ $textColor = #333
 $danger = #ce1606
 $tip = lighten(#e5ffc9, 20%)
 $warning = #fffec9
-
-$fontA = 'Karla', sans-serif;
 
 // layout
 $navbarHeight = 3.6rem
@@ -18,4 +23,32 @@ $homePageWidth = 960px
 $MQNarrow = 959px
 $MQMobile = 719px
 $MQMobileNarrow = 419px
+
+// scrollbars
+
+.sidebar::-webkit-scrollbar 
+    width .25em
+
+.sidebar::-webkit-scrollbar-thumb 
+    background-color lighten($accentColor, 20%)
+
+.sidebar::-webkit-scrollbar-track 
+    background-color none
+
+.sidebar
+    scrollbar-color lighten($accentColor, 20%) transparent
+    scrollbar-width thin
+
+
+body::-webkit-scrollbar 
+    width .75em
+
+body::-webkit-scrollbar-track 
+    background-color #555
+
+body::-webkit-scrollbar-thumb 
+  background-color #999
+
+html
+    scrollbar-color #999 #555
 

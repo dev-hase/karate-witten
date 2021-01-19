@@ -1,4 +1,5 @@
 @require(landingPage)
+@require(navbarOverrides)
 
 schatten()
 	box-shadow 2px 4px 3px #eee !important
@@ -12,21 +13,15 @@ rundung()
 body, .sidebar, .navbar
 	background-image url('/img/paper.png') 
 
-.navbar 
-	//background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(246,246,243,1) 24%, rgba(246,250,236,1) 100%);
-	background #fafafa
-	opacity .97
-	box-shadow 0px 1px 4px #555
-
-.navbar .links
-	background-color unset !important
-
 html, body
 
 	font-family $fontA
-	h1, h2, h3, h4, h5, h6, .site-name
-		font-weight bold
-		font-style italic
+
+	h1, h2, h3, h4, h5, h6
+		//font-weight 800
+		font-style regular
+		font-family $fontB
+		letter-spacing 1.5px
 		color lighten($textColor, 15%)
 
 	@media (max-width $MQMobile)
@@ -59,7 +54,9 @@ iframe
 
 	.custom-block-title
 		font-weight bold
-		font-style italic
+		//font-style italic
+		font-family $fontB
+		letter-spacing 1.5px
 		font-size 1.25rem
 
 .custom-block.danger

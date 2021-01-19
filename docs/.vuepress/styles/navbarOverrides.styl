@@ -1,0 +1,39 @@
+
+.navbar 
+	background #0f1015
+	opacity .97
+	box-shadow 0px 1px 4px #111
+	border-bottom none
+
+.navbar .links
+	background-color unset !important
+
+.navbar .logo
+	height 2rem !important
+
+.site-name, .links
+	color #efefef !important
+	font-weight regular
+	font-style regular
+	font-family $fontB
+	letter-spacing 1.5px
+
+.site-name
+	font-size 1.9rem !important
+
+.nav-link:hover, .nav-link:focus
+	color lighten($accentColor, 20%) !important
+
+.links a.router-link-active
+	color lighten($accentColor, 20%) !important
+
+.search-box 
+	input
+		background-color #333 !important
+		border-radius .4rem !important
+		border unset !important
+	input:focus
+		background-color #efefef !important
+
+.sidebar-button
+	filter invert(1)
