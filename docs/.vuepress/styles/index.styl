@@ -1,3 +1,5 @@
+@require(landingPage)
+
 schatten()
 	box-shadow 2px 4px 3px #eee !important
 
@@ -9,93 +11,6 @@ rundung()
 
 body
 	background none 
-
-.landingPage
-
-	margin-bottom -1rem
-
-	background-image url('/img/cover.jpg')
-	background-size 70rem
-	background-repeat no-repeat
-	background-color #161819
-	background-attachment fixed
-
-
-	@media (max-width $MQMobile)
-		background-position -11rem 0
-		background-size 90rem
-	@media (min-width $MQMobile)
-		padding 0 7.5rem !important
-	@media (min-width 1100px)
-		padding 0 15rem !important
-		
-
-	.navbar
-
-		border-bottom none
-		background #222
-
-		.logo
-			display none
-		.links
-			background #222 !important
-			color #efefef !important
-			display flex
-			width 100%
-			:hover
-				color #fff
-			.searchbox
-				align-item right
-		.nav-links
-			width 100%
-			display flex
-			font-size .8rem
-			justify-content flex-end
-			padding-left 1rem
-			@media (max-width $MQMobile)
-				justify-content space-evenly
-
-
-	.search-box input
-		background-color #222
-		border 2px solid #333
-			
-
-
-	.site-name
-		display none
-
-
-	.hero 
-		#main-title, .description
-			display none
-
-		img
-			height 70vh
-			max-height 70vh !important
-			display block
-			width 100%
-			object-fit contain
-			padding 0 0 3rem 0 !important
-			@media (max-width $MQMobile)
-				max-height 95vh
-				min-height 85vh
-				padding 20vh 0 0 0 !important
-
-	.custom-block
-		box-shadow unset !important
-		opacity .94
-
-	.custom-block.warning, .custom-block.tip
-		p
-			color #333 !important
-
-
-	h1, h2, h3, h4, h5, h6
-		color #efefef !important
-		border-bottom unset
-	p
-		color #efefef
 
 
 html, body
