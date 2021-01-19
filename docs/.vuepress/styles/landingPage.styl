@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6
 	background #0f1015
 	background-image url('/img/cover-bg.jpg')
 	background-size cover
-	background-position -8rem
+	background-position -20rem
 
 	display block
 	box-sizing border-box
@@ -32,9 +32,13 @@ h1, h2, h3, h4, h5, h6
 
 
 	@media (max-width $MQMobile)
-
+		background-position -30rem
 		height 100vh
 		min-height 100vh
+
+	@media (min-width 1200px)
+		background-position -8rem
+
 
 .coverMid
 
