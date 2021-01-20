@@ -1,6 +1,8 @@
 @require(landingPage)
 @require(navbarOverrides)
 
+// mixins -------------------------------------------
+
 schatten()
 	box-shadow 2px 4px 3px #eee !important
 
@@ -19,6 +21,8 @@ umrandung()
 	-webkit-border-image-outset 4px 4px 9px 9px 
 	-webkit-border-image-repeat stretch stretch 
 	-webkit-border-image-source url('/img/frame.png') 
+
+// custom -----------------------------------
 
 .hideMe
 	display none
@@ -40,13 +44,61 @@ html, body
 	@media (max-width $MQMobile)
 		font-size .9rem
 
+em
+	position relative
+	z-index 3
+	display inline-block
+	background-color rgba(255, 248, 170, .75)
+	background-image url('/img/paper.png')
+	padding .7rem
+
+em:before
+	content ""
+	z-index -1
+	left -.1rem
+	top 0em
+	border-width 2px
+	border-style solid
+	border-color $danger
+	position absolute
+	border-right-color transparent
+	width 98%
+	height 1em
+	transform rotate(.2deg)
+	opacity 0.5
+	border-radius 0.25em
+	height 95%
+	background-color rgba(222,233,33,.2)
+
+em:after
+
+	content ""
+	z-index -1
+	left 0em
+	top -.2rem
+	border-width 2px
+	border-style solid
+	border-color $danger
+	border-left-color transparent
+	border-top-color transparent
+	position absolute
+	width 99%
+	height 1em
+	transform rotate(-.51deg)
+	opacity 0.5
+	border-radius 0.25em
+	height 102%
+	background: linear-gradient(38deg, rgba(255,255,255,0) 43%, rgba(247,237,56,0.3) 100%);
+
+
+
 .swal2-popup
 	font-family $fontA
 
 .googleMaps
 	max-width 100% !important
+	//border 1px solid #999 !important
 	schatten()
-	rundung()
 
 iframe
 	display flex
@@ -55,9 +107,12 @@ iframe
 	width 100%
 	min-height 200px
 
+
 .header-anchor
 	display none
 
+
+// custom blocks ----------------------------------
 
 .custom-block
 	position relative
@@ -65,25 +120,16 @@ iframe
 	background-image url('/img/paper.png') 
 
 	.custom-block-title
-		font-weight bold
-		//font-style italic
-		font-family $fontB
-		letter-spacing 1.5px
-		font-size 1.25rem
+		display none
 
 .custom-block.danger
 	background-color $danger
 	padding 1rem 2.5rem
-	color #eee
+	color #efefef
 	umrandung()
+	h1, h2, h3, h4, h5, h6
+		color #efefef
 
-	.custom-block-title
-		color #fff
-		font-size 2rem
-	@media (max-width $MQMobile)
-		padding .5rem 1.25rem
-	@media (min-width 1200px)
-		padding 1rem 5rem
 
 .custom-block.tip
 	background-color $tip

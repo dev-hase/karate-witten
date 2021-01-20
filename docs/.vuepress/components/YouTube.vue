@@ -65,8 +65,8 @@ export default {
         width 100%
         max-widht 100%
         height 100%
-        background #444
-        opacity .8
+        background rgba(255,255,255,.5)
+        opacity .85
         background-image url('/img/video.svg')
         background-repeat no-repeat
         background-size 33%
@@ -101,13 +101,13 @@ export default {
         max-width 100% !important
         position relative
         background-color #aaa
-        background-blend-mode color-burn
+        background-blend-mode soft-light
 
     .youtube, iframe, .youtube:before 
-        max-height 45vh !important  
+        max-height 40vh !important  
 
         @media (min-width 800px)
-            height 45vh !important
+            height 40vh !important
 
 
     .youtube:before
@@ -119,7 +119,23 @@ export default {
         min-width 70% !important
 
     .video-box 
-        margin 0 !important
+        border 3px solid transparent
+        box-sizing border-box
+        margin 1.5rem 0 !important
+
+        border-image-slice 45 38 36 56 
+        border-image-width 5px 5px 5px 5px
+        border-image-outset 3px 3px 3px 3px
+        border-image-repeat stretch stretch 
+        border-image-source url('/img/frame.png')
+
+        -webkit-border-image-slice 45 38 36 56 
+        -webkit-border-image-width 5px 5px 5px 5px
+        -webkit-border-image-outset 3px 3px 3px 3px
+        -webkit-border-image-repeat stretch stretch 
+        -webkit-border-image-source url('/img/frame.png') 
+
+        background-color #333
 
     @media (min-width 1200px)
         .video-box 

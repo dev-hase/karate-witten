@@ -11,7 +11,9 @@ Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sow
 
 ### Schüler 
 
-::: tip 8–12 Jahre
+::: tip
+
+#### 8–12 Jahre
 
 Dienstags
 17:30–18:30 Uhr
@@ -27,7 +29,9 @@ Ansprechpartnerin: Birgit Neugebauer
 
 ### Junioren 
 
-::: tip 13–17 Jahre
+::: tip 
+
+#### 13–17 Jahre
 
 Montags
 17:30–18:30 Uhr
@@ -47,7 +51,9 @@ Ansprechpartner: Ralf Baier
 
 ### Erwachsene 
 
-::: tip ab 18
+::: tip 
+
+#### ab 18
 
 Dienstags
 19:00–20:30 Uhr
@@ -66,7 +72,9 @@ Ansprechpartner: Ralf Budde
 
 ### Kobudo 
 
-::: tip (ab 14 und orangenem Gürtel)
+::: tip 
+
+#### (ab 14 und orangenem Gürtel)
 
 *Aktuell keine regelmäßige Trainingszeit!*
 
@@ -104,4 +112,5 @@ GPS: 51° 26' 11" N, 7° 20' 56" O
 <iframe class="googleMaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2091.4544699771022!2d7.34618651998421!3d51.4366251989116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b922197498df23%3A0xa299360d63f14bf3!2sOverbergschule!5e0!3m2!1sde!2sde!4v1515680638888" width="1024" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 #### Anfahrt
+
 Nähe Husemannhalle; Zugang über Husemannstraße/Rheinscher Berg.

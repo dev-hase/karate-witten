@@ -14,7 +14,9 @@ Gōjū-Ryū Karate-Dō [ɡoːʒuːriːuː karatədoː] ist sowohl eine tradition
 
 ## Kontakt
 
-::: tip Allgemein
+::: tip 
+
+#### Allgemein
 
 in<span class="hideMe">gojuryu</span>fo@karate-witten.de
 

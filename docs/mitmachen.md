@@ -6,7 +6,9 @@ sidebar: auto
 
 <warnung nachricht="Zur Zeit finden aufgrund der aktuellen Situation keine Trainingseinheiten statt; können wir das Training wieder aufnehmen, seid Ihr herzlich willkommen!" nTitel="Corona Lockdown" nTyp="warning" />
 
-::: warning ...schau doch mal rein!
+::: warning 
+
+#### ...schau doch mal rein!
 
 Du kannst jederzeit kostenlos und unverbindlich an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen. *Zudem findet regelmäßig ein Schnupperkurs für Anfänger statt, den wir für einen Einstieg besonders empfehlen!*
 
@@ -18,7 +20,9 @@ Und alles andere gehen wir dann gemeinsam in den Trainingseinheiten an. Ideal is
 
 ## Schnupperkus
 
-::: warning Kostenlos und unverbindlich :-)
+::: warning 
+
+#### Kostenlos und unverbindlich
 
 Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die aktuelle Lage es zulässt, werden wir natürlich sofort wieder loslegen!
 
@@ -26,7 +30,9 @@ Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die 
 
 ## Kosten
 
-::: tip Übersicht
+::: tip 
+
+#### Übersicht
 
 - Regelmäßig fallen bei uns Beiträge für die Mitgliedschaft in unserem Hauptverein, der TG Witten, und der Abteilung an (siehe Mitgliedsbeiträge)
 - Einmalig müsst ihr in einen Karateanzug investieren. (In den ersten Wochen reicht aber normales Sportzeug.) *Ein Karateanzug kostet ca. 20€ bis 60€.*
@@ -36,7 +42,9 @@ Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die 
 
 :::
 
-::: tip Mitgliedsbeiträge (Stand 01.01.2019)
+::: tip 
+
+#### Mitgliedsbeiträge (Stand 01.01.2019)
 
 - Kinder und Jugendliche bis 18 Jahre: 6€ / Monat
 - Erwachsene: 12€ / Monat + 20€ / Jahr Verzehrumlage
@@ -60,7 +68,7 @@ für schlanke Karatekas > Körpergröße, für athletische Karatekas > Körpergr
 
 Die Armlänge des Karate-Gi soll das Handgelenk und die Beinlänge das Fußgelenk nicht überschreiten. Ist der Karate-Gi an diesen Stellen zu lang, dann bitte nicht hochkrempeln (Verletzungsgefahr!), sondern nach innen hoch nähen. Die Ärmel sollen den Ellenbogen und die Beinkleider sollen das Knie auch im angewinkelten Zustand bedecken.
 
-Gürtel richtig binden, Karate-Gi gekonnt zusammenlegen; diese und weitere Fertigkeiten zeigen wir Euch gerne beim Training ☺
+Gürtel richtig binden, Karate-Gi gekonnt zusammenlegen; diese und weitere Fertigkeiten zeigen wir Euch gerne beim Training!
 
 ## Karate-Zubehör
 

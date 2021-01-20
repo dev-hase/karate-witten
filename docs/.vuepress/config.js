@@ -47,7 +47,14 @@ module.exports = {
                 ['/kata/gekisai', 'Gekisai'],
                 ['/kata/saifa', 'Saifā'],
                 ['/kata/sanchin', 'Sanchin'],
+                ['/kata/tensho', 'Tenshō'],
                 ['/kata/senseru', 'Sansēru'],
+                ['/kata/seisan', 'Seisan'],
+                ['/kata/seiyunchin', 'Seiyunchin'],
+                ['/kata/sepai', 'Sēpai'],
+                ['/kata/shisochin', 'Shisōchin'],
+                ['/kata/suparinpei', 'Sūpārinpei'],
+                ['/kata/kururunfa', 'Kururunfā'],
             ]
         },
         {
