@@ -25,13 +25,16 @@
 
     <Content class="theme-default-content custom" />
 
-    <div
-      v-if="data.footer"
-      class="footer"
-    >
-      {{ data.footer }}
-    </div>
+  <footer id='lpFooter'>
+    <section class='linkList'>
+      <a href='/about.html#kontakt'>Kontakt</a> 
+      <a href='/impressum.html'>Impressum</a> 
+      <a href='/datenschutz.html'>Datenschutz</a> 
+    </section>
+  </footer>
+
   </main>
+
 </template>
 
 <script>
@@ -61,6 +64,11 @@ export default {
 </script>
 
 <style lang="stylus">
+
+.theme-default-content
+  margin-bottom 100vh !important
+  padding-bottom 4.5rem !important
+
 .home
   padding $navbarHeight 2rem 0
   max-width $homePageWidth
