@@ -60,6 +60,8 @@ module.exports = {
         {
             title: 'Grundtechniken',
             children: [
+                ['/grundtechniken/angriffsstufen', 'Angriffsstufen'],
+                ['/grundtechniken/fallschule', 'Fallschule'],
                 ['/grundtechniken/schlaege', 'Schläge'],
                 ['/grundtechniken/tritte', 'Tritte'],
             ]
