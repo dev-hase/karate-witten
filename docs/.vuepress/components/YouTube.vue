@@ -42,7 +42,7 @@ export default {
 <style lang="stylus" scoped>
         
     .video-box        
-        filter grayscale(37%) sepia(10%) contrast(95%) brightness(97%)
+        //filter grayscale(37%) sepia(10%) contrast(95%) brightness(97%)
         cursor pointer
         min-width 100%
         margin 2.75rem 0
@@ -65,13 +65,12 @@ export default {
         width 100%
         max-widht 100%
         height 100%
-        background rgba(255,255,255,.5)
-        opacity .85
+        opacity .97
         background-image url('/img/video.svg')
         background-repeat no-repeat
         background-size 33%
         background-position center
-        background-color $accentColor
+        background-color rgba(188,122,122,.85)
         box-sizing border-box
         overflow hidden
 
@@ -100,8 +99,8 @@ export default {
         width 100%
         max-width 100% !important
         position relative
-        background-color #aaa
-        background-blend-mode soft-light
+        background-color #111
+        background-blend-mode luminosity
 
     .youtube, iframe, .youtube:before 
         max-height 40vh !important  

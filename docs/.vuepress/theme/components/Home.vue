@@ -64,8 +64,7 @@ export default {
 </script>
 
 <style lang="stylus">
-
-.theme-default-content
+.home .theme-default-content
   margin-bottom 100vh !important
   padding-bottom 4.5rem !important
 

@@ -91,7 +91,41 @@ em:after
 	height 102%
 	background: linear-gradient(38deg, rgba(255,255,255,0) 43%, rgba(247,237,56,0.3) 100%);
 
+.theme-default-content
 
+	ul
+		position relative
+		margin .25rem 0
+		color #eee
+		padding .5rem 1.5rem
+		margin .75rem 0
+		list-style none
+		border-radius .2rem
+		@media (max-width $MQMobile)
+			margin .75rem .5rem
+
+		li
+			position relative
+			padding .35rem 0
+			//border-right 1px solid #555
+			margin-bottom 1rem
+			color $textColor
+			@media (max-width $MQMobile)
+				font-size .9rem      
+
+		li:before 
+			content ''
+			height 1.1rem
+			width .9rem
+			display block
+			position absolute
+			background-image url('/img/list.png')
+			background-size cover
+			background-position center
+			transform translateY(-50%)
+			filter invert(30%)
+			left -1.75rem
+			top 50%				  
 
 .swal2-popup
 	font-family $fontA

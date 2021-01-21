@@ -32,11 +32,11 @@ Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die 
 
 ::: tip 
 
-#### Übersicht
+#### Allgemein
 
 - Regelmäßig fallen bei uns Beiträge für die Mitgliedschaft in unserem Hauptverein, der TG Witten, und der Abteilung an (siehe Mitgliedsbeiträge)
 - Einmalig müsst ihr in einen Karateanzug investieren. (In den ersten Wochen reicht aber normales Sportzeug.) *Ein Karateanzug kostet ca. 20€ bis 60€.*
-- Die Teilnahme an den Gürtelprüfungen ist freiwillig. Die Prüfungsgebühr beträgt *12€ bis 18 Jahre / 15€ ab 18 Jahren.*
+- Die Teilnahme an den Gürtelprüfungen ist freiwillig. *Die Prüfungsgebühr beträgt 12€ bis 18 Jahre / 15€ ab 18 Jahren.*
 - Nach Bestehen einer Prüfung braucht ihr natürlich einen neuen Gürtel mit eurer aktuellen Gurtfarbe. *Ein Gürtel kostet ca. 6€.*
 - Falls ihr zu Lehrgängen und/oder Turnieren fahren möchtet, fallen dafür auch entsprechende Kosten an.
 
@@ -44,7 +44,7 @@ Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die 
 
 ::: tip 
 
-#### Mitgliedsbeiträge (Stand 01.01.2019)
+#### Mitgliedsbeiträge
 
 - Kinder und Jugendliche bis 18 Jahre: 6€ / Monat
 - Erwachsene: 12€ / Monat + 20€ / Jahr Verzehrumlage
