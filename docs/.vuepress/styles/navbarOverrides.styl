@@ -27,13 +27,54 @@
 .links a.router-link-active
 	color lighten($accentColor, 20%) !important
 
+
+.wikiLink
+	display inline
+	width 0
+	height 0
+	@media (max-width $MQMobile)
+		width 2.1rem
+		height 2.25rem
+		margin-right .2rem
+
+.site-name
+	display inline !important
+
+.navbar .logo
+	@media (max-width $MQMobile)
+		display none
+
+
+.search-box input:focus
+	@media (max-width 960px)
+		position fixed !important
+		top 0
+		left 0
+		min-width 100vw 
+		max-width 100vw
+		width 100vw
+		padding 0 1rem
+
+		height 3.75rem
+		background #333
+
+		font-size 1.5rem
+		font-weight bold
+		box-sizing border-box
+		border 1px solid #111 !important
+		z-index 1000
+		border-radius unset !important	
+
 .search-box 
 	input
+		transition unset !important
 		background-color #333 !important
+		color $warning !important
 		border-radius .4rem !important
 		border unset !important
-	input:focus
-		background-color #efefef !important
+
+.hideMe
+	display none
 
 .sidebar-button
 	filter invert(1)
