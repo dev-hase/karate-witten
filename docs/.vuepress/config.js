@@ -58,14 +58,20 @@ module.exports = {
             ]
         },
         {
-            title: 'Grundtechniken',
+            title: 'Grundlagen',
             children: [
-                ['/grundtechniken/angriffsstufen', 'Angriffsstufen'],
-                ['/grundtechniken/fallschule', 'Fallschule'],
-                ['/grundtechniken/schlaege', 'Schläge'],
-                ['/grundtechniken/tritte', 'Tritte'],
+                ['/grundlagen/angriffsstufen', 'Angriffsstufen'],
+                ['/grundlagen/mawashi-uke', 'Mawashi Uke'],
+                ['/grundlagen/shuto-uke', 'Shuto Uke'],
+                ['/grundlagen/fallschule', 'Fallschule'],
             ]
-        },            
+        },    
+        {
+            title: 'Prüfungsordnung',
+            children: [
+                ['/pruefung/1kyu', '1. Kyu (Braungurt)'],
+            ]
+        },                   
 
     ],
 

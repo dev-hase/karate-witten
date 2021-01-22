@@ -6,8 +6,6 @@ Unter Angriffsstufe, manchmal auch Körperzone genannt, versteht man in den japa
 
 :::
 
-![Angriffsstufen](/wiki/angriffsstufen.png)
-
 ### Jōdan
 
 Der Jōdan-Bereich ist die obere Angriffsstufe und umfasst Hals und Kopf. Dementsprechend nennt man einen geraden Fauststoß (Oi-zuki) zum Kopfbereich Oi-zuki jōdan. Ein Halbkreisfußtritt (Mawashi-geri) zum Kopf heißt Mawashi-geri jōdan. Die Gruppe der oben geführten Abwehrtechniken nennt sich Jōdan-uke. Diese umfasst beispielsweise Age-uke (nach oben gezogene Abwehr mit dem Unterarm), Haishu-uke (Handrückenabwehr im Kopfbereich) oder Morote-uke (obere Blockabwehr mit unterstützendem zweiten Arm).
