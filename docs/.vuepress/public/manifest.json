@@ -1,8 +1,8 @@
 {
     "theme_color": "#333",
     "background_color": "#ffffff",
-    "display": "minimal-ui",
-    "orientation": "portrait-primary",
+    "display": "standalone",
+    "orientation": "portrait",
     "lang": "de-DE",
     "categories": ["fitness", "sports", "karate"],
     "scope": "/",
