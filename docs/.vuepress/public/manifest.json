@@ -1,11 +1,14 @@
 {
-    "theme_color": "#45f635",
+    "theme_color": "#333",
     "background_color": "#ffffff",
-    "display": "fullscreen",
+    "display": "minimal-ui",
+    "orientation": "portrait-primary",
+    "lang": "de-DE",
+    "categories": ["fitness", "sports", "karate"],
     "scope": "/",
     "start_url": "/",
     "app_name": "Karate Witten",
-    "short_name": "KarateApp",
+    "short_name": "Karate Witten",
     "description": "News und Nachschlagewerk",
     "icons": [
         {
