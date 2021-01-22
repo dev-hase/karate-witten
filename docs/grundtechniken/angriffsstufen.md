@@ -6,7 +6,7 @@ Unter Angriffsstufe, manchmal auch Körperzone genannt, versteht man in den japa
 
 :::
 
-![Angriffsstufen](/img/wiki/angriffsstufen.png)
+![Angriffsstufen](/wiki/angriffsstufen.png)
 
 ### Jōdan
 
