@@ -70,6 +70,14 @@ module.exports = {
             title: 'Prüfungsordnung',
             children: [
                 ['/pruefung/1kyu', '1. Kyu (Braungurt)'],
+                ['/pruefung/2kyu', '2. Kyu (Braungurt)'],
+                ['/pruefung/3kyu', '3. Kyu (Braungurt)'],
+                ['/pruefung/4kyu', '4. Kyu (Blaugurt)'],
+                ['/pruefung/5kyu', '5. Kyu (Blaugurt)'],
+                ['/pruefung/6kyu', '6. Kyu (Grüngurt)'],
+                ['/pruefung/7kyu', '7. Kyu (Orangegurt)'],
+                ['/pruefung/8kyu', '8. Kyu (Gelbgurt)'],
+                ['/pruefung/9kyu', '9. Kyu (Weißgurt)'],
             ]
         },                   
 

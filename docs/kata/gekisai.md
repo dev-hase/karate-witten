@@ -12,13 +12,13 @@ Die beiden Gekisai gehören zur Kategorie Fukyu-Gata (dt. „verbreitete Kata“
 
 :::
 
-### Gekisai Dai Ichi
+## Gekisai Dai Ichi
 
 Gekisai-Dai-Ichi und Gekisai-Dai-Ni wirken insgesamt kraftvoll und dynamisch. Gekisai-Dai-Ichi ist vom Ablauf ein wenig kürzer und wirkt u. a. durch den Yama zuki (dt. Berg-Stoß, gleichzeitiger Faststoß mit beiden Fäusten jōdan und chūdan) am Ende der Kata härter. In der Gekisai-Dai-Ichi wird das „Gō“-Element (dt. hart) des Gōjū-Ryū stärker betont.
 
 <YouTube videoid="fgA_ITNi5FM" start="11" />
 
-### Gekisai Dai Ni
+## Gekisai Dai Ni
 
 Gekisai-Dai-Ni ist durch den Vorwärts-/Rückwärts-Schritt im Sanchin-Dachi in Verbindung mit Kake-Uke vom Ablauf ein wenig länger. U. a. durch den Nekoashi-Dachi in Verbindung mit Mawashi-Uke gegen Ende der Kata wirkt sie weicher. In der Gekisai-Dai-Ni wird das „Jū“-Element (dt. weich) stärker betont.
 

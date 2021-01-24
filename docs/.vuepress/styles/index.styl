@@ -155,12 +155,31 @@ iframe
 		display none
 
 .custom-block.danger
+	position relative
 	background-color $danger
 	padding 1rem 2.5rem
 	color #efefef
 	umrandung()
 	h1, h2, h3, h4, h5, h6
 		color #efefef
+
+.danger
+	&:after
+		content ''
+		position absolute
+		top -.75rem
+		right -.75rem
+		width 1.75rem
+		height 1.75rem
+		background-color lighten($warning, 15%)
+		background-image url('/img/warning.png'), url('/img/paper.png')
+		border 3px solid #454545
+		border-radius 50%
+		background-size 2.25rem
+		background-repeat no-repeat, repeat
+		background-position center
+		padding .75rem
+		transform rotate(8deg)
 
 
 .custom-block.tip
@@ -188,3 +207,21 @@ iframe
 		padding .5rem 1.25rem
 	@media (min-width 1200px)
 		padding 1rem 5rem
+
+.warning
+	&:after
+		content ''
+		position absolute
+		top -.45rem
+		right -.45rem
+		width 1rem
+		height 1rem
+		background-color lighten($warning, 15%)
+		background-image url('/img/pin.png'), url('/img/paper.png')
+		border 3px solid #454545
+		border-radius 50%
+		background-size 2.25rem
+		background-repeat no-repeat, repeat
+		background-position center
+		padding .75rem
+		transform rotate(28deg)
