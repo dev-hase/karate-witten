@@ -25,6 +25,21 @@ umrandung()
 
 // custom -----------------------------------
 
+.imageRight
+	float right
+	max-width 30vw
+	width 30vw
+	border 1px solid #494949
+	margin-left 1rem
+	margin-bottom 1rem
+	border-radius .25rem
+	@media (max-width $MQMobile)
+		max-width 100%
+		min-widht 100%
+		width 50vw
+		float unset
+
+
 body, .sidebar, .navbar
 	background-image url('/img/paper.png') 
 
@@ -128,9 +143,9 @@ em:after
 	font-family $fontA
 
 .googleMaps
-	max-width 100% !important
-	//border 1px solid #999 !important
-	schatten()
+	max-width 99% !important
+	min-width 99% !important
+	border 2px solid #494949 !important
 
 iframe
 	display flex
@@ -148,7 +163,7 @@ iframe
 
 .custom-block
 	position relative
-
+	overflow auto
 	background-image url('/img/paper.png') 
 
 	.custom-block-title
@@ -162,6 +177,10 @@ iframe
 	umrandung()
 	h1, h2, h3, h4, h5, h6
 		color #efefef
+	@media (max-width $MQMobile)
+		padding .5rem .75rem
+	@media (min-width 1200px)
+		padding 1rem 4.5rem
 
 .danger
 	&:after
@@ -192,9 +211,9 @@ iframe
 	.custom-block-title
 		color lighten($textColor, 10%)
 	@media (max-width $MQMobile)
-		padding .5rem 1.25rem
+		padding .5rem .75rem
 	@media (min-width 1200px)
-		padding 1rem 5rem		
+		padding 1rem 4.5rem		
 
 .custom-block.warning
 	background-color $warning
@@ -204,9 +223,9 @@ iframe
 	.custom-block-title
 		color lighten($textColor, 10%)
 	@media (max-width $MQMobile)
-		padding .5rem 1.25rem
+		padding .5rem .75rem
 	@media (min-width 1200px)
-		padding 1rem 5rem
+		padding 1rem 4.5rem
 
 .warning
 	&:after

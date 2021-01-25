@@ -57,6 +57,18 @@ Interessenten melden sich bitte bei Ralf Budde (ralf.budde@karate-witten.de) um 
 
 :::
 
+::: tip 
+
+## Abschied von Hanshi Fritz Nöpel
+
+<img src="/wiki/fritz-noepel.jpg" class="imageRight" />
+
+Wir nehmen Abschied von der prägendsten Persönlichkeit im GOJU-Ryu Karate-Do in Deutschland. Fritz Nöpel war der Wegbereiter des Gōjū-Ryū-Karate in Deutschland. Er war Träger des 10. Dan und des Ehrentitels Hanshi und damit höchstgraduierter Dan-Träger im Deutschen Karate Verband. Er verstarb am 19. November 2020. Fritz Nöpel wurde 85 Jahre alt.
+
+Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/710-abschied-von-hanshi-fritz-noepel) 
+
+:::
+
 # Zum Vormerken...
  
 ::: warning 

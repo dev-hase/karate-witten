@@ -27,7 +27,10 @@
 
   <footer id='lpFooter'>
     <section class='linkList'>
+      <a href='/wiki.html' class="hideFooterLink">Wiki</a> 
+      <a href='/wann-und-wo.html' class="hideFooterLink">Zeiten</a> 
       <a href='/about.html#kontakt'>Kontakt</a> 
+      <a href='/mitmachen.html' class="hideFooterLink">Mitmachen</a> 
       <a href='/impressum.html'>Impressum</a> 
       <a href='/datenschutz.html'>Datenschutz</a> 
     </section>
