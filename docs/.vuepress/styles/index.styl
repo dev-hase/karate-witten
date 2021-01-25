@@ -163,11 +163,16 @@ iframe
 
 .custom-block
 	position relative
-	overflow auto
 	background-image url('/img/paper.png') 
 
 	.custom-block-title
 		display none
+
+	&:after
+		content ""
+		clear both
+		display table
+
 
 .custom-block.danger
 	position relative
@@ -214,6 +219,7 @@ iframe
 		padding .5rem .75rem
 	@media (min-width 1200px)
 		padding 1rem 4.5rem		
+
 
 .custom-block.warning
 	background-color $warning
