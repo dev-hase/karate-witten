@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 <rellaxImage imgBg='/wiki/busaganashiBg.jpg' imgFront='/wiki/busaganashi.png' />
 
 Der Busaganashi ist eine taoistische Kampfkunstgottheit (Kami), die von vielen Goju Ryu Praktizierenden in Okinawa verehrt wird.
