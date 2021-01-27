@@ -58,6 +58,21 @@ module.exports = {
             ]
         },
         {
+            title: 'Kumite',
+            children: [
+                ['/kumite/kumite-ura', 'Kumite Ura'],
+                ['/kumite/kumite-ura-1-3', 'Kumite Ura 1-3'],
+                ['/kumite/kumite-ura-4-6', 'Kumite Ura 4-6'],
+                ['/kumite/kumite-ura-7-9', 'Kumite Ura 7-9'],
+                ['/kumite/kumite-ura-10-12', 'Kumite Ura 10-12'],
+                ['/kumite/nage-waza', 'Nage Waza'],
+                ['/kumite/nage-waza-1-3', 'Nage Waza 1-3'],
+                ['/kumite/nage-waza-4-6', 'Nage Waza 4-6'],
+                ['/kumite/nage-waza-7-9', 'Nage Waza 7-9'],
+                ['/kumite/nage-waza-10-12', 'Nage Waza 10-12'],
+            ]
+        },
+        {
             title: 'Grundlagen',
             children: [
                 ['/grundlagen/angriffsstufen', 'Angriffsstufen'],

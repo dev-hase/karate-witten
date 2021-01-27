@@ -12,16 +12,32 @@ rundung()
 
 umrandung()
 	border-image-slice 45 38 36 56 
-	border-image-width 9px 9px 9px 9px 
-	border-image-outset 4px 4px 4px 4px 
+	border-image-width 19px 9px 9px 9px 
+	border-image-outset 14px 4px 4px 4px 
 	border-image-repeat stretch stretch 
 	border-image-source url('/img/frame.png')
 
 	-webkit-border-image-slice 45 38 36 56 
-	-webkit-border-image-width 9px 9px 9px 9px 
-	-webkit-border-image-outset 4px 4px 9px 9px 
+	-webkit-border-image-width 19px 9px 9px 9px 
+	-webkit-border-image-outset 14px 4px 9px 9px 
 	-webkit-border-image-repeat stretch stretch 
 	-webkit-border-image-source url('/img/frame.png') 
+
+// --------------------apple hacks
+
+@media screen and (-webkit-min-device-pixel-ratio:0) 
+	select, textarea, input 
+		font-size 16px !important
+
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) 
+	select:focus, textarea:focus, input:focus 
+		font-size 16px !important
+  
+
+
+
 
 // custom -----------------------------------
 

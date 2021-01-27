@@ -68,7 +68,6 @@ export default {
         opacity .97
         background-image url('/img/video.svg')
         background-repeat no-repeat
-        background-size 33%
         background-position center
         background-color rgba(188,122,122,.85)
         box-sizing border-box
@@ -110,7 +109,10 @@ export default {
 
 
     .youtube:before
-        background-size 10% !important
+        background-size 12.5% !important
+        @media (max-width 400px)
+            background-size 10vh !important
+
 
     .youtube:after
         

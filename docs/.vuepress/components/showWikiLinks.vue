@@ -5,6 +5,10 @@
             <h2 v-on:click='changeSize'>Kata</h2>
             <showPath path="/kata/" />
         </div>
+        <div class="wikiLinkBlock collapsed wikiKumite">
+            <h2 v-on:click='changeSize'>Kumite</h2>
+            <showPath path="/kumite/" />
+        </div>
         <div class="wikiLinkBlock collapsed wikiGrundlagen">
             <h2 v-on:click='changeSize'>Grundlagen</h2>
             <showPath path="/grundlagen/" />
@@ -64,6 +68,9 @@ export default {
 .wikiKata
     background-image url('/wiki/kata.jpg')
 
+.wikiKumite
+    background-image url('/wiki/kumite.jpg')
+
 .wikiPruefung
     background-image url('/wiki/pruefung.jpg')
 
@@ -77,10 +84,11 @@ export default {
     border-image-source url('/img/frame.png')
 
     -webkit-border-image-slice 45 38 36 56 
-    -webkit-border-image-width 9px 9px 9px 9px 
-    -webkit-border-image-outset 6px 6px 6px 6px 
+    -webkit-border-image-width 19px 9px 9px 9px 
+    -webkit-border-image-outset 14px 4px 9px 9px 
     -webkit-border-image-repeat stretch stretch 
     -webkit-border-image-source url('/img/frame.png') 
+    
     align-self flex-start
     position relative
     z-index 1
@@ -102,6 +110,7 @@ export default {
 
 .collapsed.wikiLinkBlock
     background-size cover !important
+    background-blend-mode hue
 
 .wikiLinkBlockLinks
     div

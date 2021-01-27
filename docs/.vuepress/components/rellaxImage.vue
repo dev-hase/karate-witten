@@ -43,8 +43,8 @@ export default {
     border-image-source url('/img/frame.png')
 
     -webkit-border-image-slice 45 38 36 56 
-    -webkit-border-image-width 5px 5px 5px 5px
-    -webkit-border-image-outset 3px 3px 3px 3px
+    -webkit-border-image-width 19px 9px 9px 9px 
+    -webkit-border-image-outset 14px 4px 9px 9px 
     -webkit-border-image-repeat stretch stretch 
     -webkit-border-image-source url('/img/frame.png') 
 
