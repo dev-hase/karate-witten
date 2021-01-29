@@ -92,6 +92,8 @@ Ansprechpartner: Ralf Budde
 
 ::: warning
 
+![Kleine Jahnhalle](/img/jahnhalle.jpg)
+
 #### Adresse
 
 (Eduard-Schröder-Halle)  
@@ -106,9 +108,9 @@ GPS: 51° 26' 47" N, 7° 19' 49" O
 
 Zugang über die Jahnstraße; an der Einfahrt zum Sportgelände direkt rechts (kleine Halle).
 
-:::
-
 <iframe class="googleMaps" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9946.534998904579!2d7.321360973323033!3d51.446519716732816!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b921fae29ae21b%3A0xb8e616d3fb2356d!2sJahnhalle+Witten!5e0!3m2!1sde!2sde!4v1515680090067" width="1024" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+:::
 
 ### Turnhalle Overbergschule
 
@@ -123,6 +125,8 @@ GPS: 51° 26' 11" N, 7° 20' 56" O
 
 Nähe Husemannhalle; Zugang über Husemannstraße/Rheinscher Berg
 
+<iframe class="googleMaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2091.4544699771022!2d7.34618651998421!3d51.4366251989116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b922197498df23%3A0xa299360d63f14bf3!2sOverbergschule!5e0!3m2!1sde!2sde!4v1515680638888" width="1024" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 :::
 
-<iframe class="googleMaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2091.4544699771022!2d7.34618651998421!3d51.4366251989116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b922197498df23%3A0xa299360d63f14bf3!2sOverbergschule!5e0!3m2!1sde!2sde!4v1515680638888" width="1024" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+

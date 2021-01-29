@@ -22,11 +22,13 @@ Gōjū-Ryū Karate-Dō [ɡoːʒuːriːuː karatədoː] ist sowohl eine tradition
 
 :::
 
-## Kontakt
+## Kontakt / Newsletter
 
 ::: warning 
 
-#### Allgemein
+#### Allgemeine Fragen und unser Newsletter
+
+Für all Deine Fragen und um den Newsletter zu abon­nie­ren oder zu kündigen, schreib einfach eine Mail mit Deinem Namen und Deinem Anliegen an:
 
 in<span class="hideMe">gojuryu</span>fo@karate-witten.de
 
