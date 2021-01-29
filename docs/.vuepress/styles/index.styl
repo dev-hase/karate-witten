@@ -88,6 +88,8 @@ em
 	//background-color rgba(255, 248, 170, .75)
 	//background-image url('/img/paper.png')
 	padding .2rem .7rem
+	@media (max-width $MQMobile)
+		font-size .9rem
 
 em:before
 	content ""
@@ -169,7 +171,11 @@ em:after
 .googleMaps
 	max-width 99% !important
 	min-width 99% !important
-	border 2px solid #494949 !important
+	//border 2px solid #494949 !important
+	filter saturate(.6) sepia(.45)
+	border-radius .125rem
+	@media (max-width $MQMobile)
+		max-height 55vh
 
 iframe
 	display flex
