@@ -12,6 +12,14 @@ In der Shisōchin wird geübt, mittels Würge- oder Haltetechniken anzugreifen o
 
 :::
 
-### Video (Okinawa Style)
+### Kata
 
-<YouTube videoid="NBoU_T8VF_0" />
+<YouTube videoid="ryjZH8e9lrM" />
+
+<YouTube videoid="GMkPWubp3ZI" />
+
+### Bunkai
+
+<YouTube videoid="p6K4T5wfMC8" />
+
+<YouTube videoid="DtXqMVEaZLs" />

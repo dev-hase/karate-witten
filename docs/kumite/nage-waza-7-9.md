@@ -1,14 +1,10 @@
 # Nage Waza 7-9
 
-::: warning
-
-Die Formen 7 bis 9 der Nage Waza die bei der Prüfung zum 4. Kyu (zweiter Blaugurt) gezeigt werden.
-
-:::
-
 ::: danger
 
-Wichtig: Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
+### Wichtig
+
+Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
 
 :::
 

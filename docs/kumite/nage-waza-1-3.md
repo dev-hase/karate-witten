@@ -1,14 +1,11 @@
 # Nage Waza 1-3
 
-::: warning
-
-Die Formen 1 bis 3 der Nage Waza die bei der Prüfung zum 6. Kyu (Grüngurt) gezeigt werden.
-
-:::
 
 ::: danger
 
-Wichtig: Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
+### Wichtig
+
+Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
 
 :::
 

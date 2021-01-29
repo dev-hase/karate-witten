@@ -1,14 +1,10 @@
 # Nage Waza 10-12
 
-::: warning
-
-Die Formen 10 bis 12 der Nage Waza die bei der Prüfung zum 3. Kyu (Braungurt) gezeigt werden.
-
-:::
-
 ::: danger 
 
-Wichtig: Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
+### Wichtig
+
+Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
 
 :::
 

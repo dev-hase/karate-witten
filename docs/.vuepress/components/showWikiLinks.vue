@@ -76,7 +76,7 @@ export default {
 
 .wikiLinkBlock
     border 3px solid transparent
-    padding 1.5rem
+    padding 0 1.5rem
     border-image-slice 45 38 36 56 
     border-image-width 9px 9px 9px 9px 
     border-image-outset 6px 6px 6px 6px 
@@ -120,7 +120,7 @@ export default {
     position absolute
     display inline-block
     right 2rem
-    top 2.6rem
+    top 1.25rem
     content '>'
     transform rotate(90deg)
     font-size 2rem
@@ -130,6 +130,10 @@ export default {
     z-index -1
     color #fff
     text-shadow 3px 2px 2px #111
+
+.collapsed.wikiLinkBlock:hover
+    background $accentColor
+    transition .3s   
 
 .collapsed.wikiLinkBlock::after
     transform rotate(0deg)

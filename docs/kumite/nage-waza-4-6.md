@@ -1,14 +1,10 @@
 # Nage Waza 4-6
 
-::: warning
-
-Die Formen 4 bis 6 der Nage Waza die bei der Prüfung zum 6. Kyu (Blaugurt) gezeigt werden.
-
-:::
-
 ::: danger
 
-Wichtig: Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
+### Wichtig
+
+Keine Wurftechnik ausführen ohne vorher den Gegner durch einen Konter geschwächt zu haben!
 
 :::
 

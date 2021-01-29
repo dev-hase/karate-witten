@@ -71,11 +71,12 @@ html, body
 	font-family $fontA
 
 	h1, h2, h3, h4, h5, h6
-		//font-weight 800
+
 		font-style regular
 		font-family $fontB
 		letter-spacing 1.5px
 		color lighten($textColor, 15%)
+		word-break break-word
 
 	@media (max-width $MQMobile)
 		font-size .9rem
@@ -227,6 +228,9 @@ iframe
 		background-position center
 		padding .75rem
 		transform rotate(8deg)
+		@media (max-width $MQMobile)
+			width .9rem
+			height 1rem
 
 
 .custom-block.tip
@@ -273,3 +277,7 @@ iframe
 		background-position center
 		padding .75rem
 		transform rotate(28deg)
+		@media (max-width $MQMobile)
+			width .6rem
+			height .7rem
+			top -.9rem
