@@ -76,6 +76,7 @@ module.exports = {
             title: 'Grundlagen',
             children: [
                 ['/grundlagen/angriffsstufen', 'Angriffsstufen'],
+                ['/grundlagen/handtechniken', 'Handtechniken'],
                 ['/grundlagen/mawashi-uke', 'Mawashi Uke'],
                 ['/grundlagen/shuto-uke', 'Shuto Uke'],
                 ['/grundlagen/fallschule', 'Fallschule'],

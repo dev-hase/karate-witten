@@ -2,7 +2,7 @@
     <figure class="rellaxImage">
         <img v-rellax="{ speed: 1 }" class="rellaxBgImage" :src="imgBg" ></img>
         <img v-rellax="{ speed: -3 }" class="rellaxFrontImage" :src="imgFront" ></img>
-        hi there!
+
     </figure>    
 </template>
 
