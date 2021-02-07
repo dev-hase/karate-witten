@@ -27,8 +27,7 @@ export default {
 
 .rellaxImage
     position relative
-    border 5px solid transparent
-    umrandung()
+
     overflow hidden
     height 80vh
     box-sizing border-box
@@ -54,11 +53,12 @@ export default {
 
     .rellaxBgImage
         position absolute
-        top 0
+        top -2rem
         left 0
         width 100%
         height 120%
         object-fit cover
+        border none
 
     .rellaxFrontImage
         position absolute
@@ -67,6 +67,7 @@ export default {
         width 100%
         max-height 95%
         object-fit contain
+        border none
 
         
 

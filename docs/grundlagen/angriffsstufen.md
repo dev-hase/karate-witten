@@ -2,7 +2,7 @@
 
 ::: warning
 
-Unter Angriffsstufe, manchmal auch Körperzone genannt, versteht man in den japanischen Kampfkünsten (Budō) die Körperbereiche beim Menschen, an denen eine Angriffstechnik trifft, also ihre Wirkung erzielt. *Man unterscheidet in der japanischen Sprache grundsätzlich drei Angriffsstufen: jōdan, chūdan, gedan.* Die Begriffe jōdan, chūdan und gedan allein beschreiben jedoch nur den Körperbereich.
+Unter Angriffsstufe, manchmal auch Körperzone genannt, versteht man in den japanischen Kampfkünsten (Budō) die Körperbereiche beim Menschen, an denen eine Angriffstechnik trifft, also ihre Wirkung erzielt. **Man unterscheidet in der japanischen Sprache grundsätzlich drei Angriffsstufen: jōdan, chūdan, gedan.** Die Begriffe jōdan, chūdan und gedan allein beschreiben jedoch nur den Körperbereich.
 
 :::
 

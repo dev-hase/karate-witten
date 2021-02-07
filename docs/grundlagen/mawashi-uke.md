@@ -1,6 +1,10 @@
 # Mawashi Uke
 
-*Im Goyu Ryu eine der wichtigsten Blocks in Form einer kreisförmigen Abwehrbewegung*
+::: warning
+
+Im Goyu Ryu eine der wichtigsten Blocks in Form einer kreisförmigen Abwehrbewegung
+
+:::
 
 ### Ausführung und Anwendung 
 

@@ -13,13 +13,13 @@ rundung()
 umrandung()
 	border-image-slice 45 38 36 56 
 	border-image-width 12px 9px 9px 9px 
-	border-image-outset 10px 4px 4px 4px 
+	border-image-outset 5px 4px 4px 4px 
 	border-image-repeat stretch stretch 
 	border-image-source url('/img/frame.png')
 
 	-webkit-border-image-slice 45 38 36 56 
 	-webkit-border-image-width 12px 9px 9px 9px 
-	-webkit-border-image-outset 10px 4px 9px 9px 
+	-webkit-border-image-outset 5px 4px 9px 9px 
 	-webkit-border-image-repeat stretch stretch 
 	-webkit-border-image-source url('/img/frame.png') 
 
@@ -50,16 +50,19 @@ umrandung()
 
 .imageRight
 	float right
+	box-sizing border-box
 	max-width 30vw
-	width 30vw
+	width 40%
 	//border 1px solid #494949
-	margin-left 1rem
-	margin-bottom 1rem
+	margin-left .5rem !important
+	margin-bottom 1rem !important
+	margin-top .25rem !important
 	//border-radius .25rem
-	@media (max-width $MQMobile)
+	@media (max-width $MQMobileNarrow)
 		max-width 100%
 		min-widht 100%
-		width 50vw
+		width 80%
+		margin-left 10% !important
 		float unset
 
 
@@ -133,6 +136,12 @@ em:after
 	//background: linear-gradient(38deg, rgba(255,255,255,0) 43%, rgba(247,237,56,0.3) 100%);
 
 .theme-default-content
+
+	img
+		border 4px solid transparent
+		umrandung()
+		margin 1rem 0
+		box-sizing border-box
 
 	ul
 		position relative
