@@ -75,7 +75,7 @@ export default {
     background-image url('/wiki/pruefung.jpg')
 
 .wikiLinkBlock
-    border 3px solid transparent
+    border 3px solid #333
     padding 0 1.5rem
     border-image-slice 45 38 36 56 
     border-image-width 9px 9px 9px 9px 
@@ -84,8 +84,8 @@ export default {
     border-image-source url('/img/frame.png')
 
     -webkit-border-image-slice 45 38 36 56 
-    -webkit-border-image-width 19px 9px 9px 9px 
-    -webkit-border-image-outset 14px 4px 9px 9px 
+    -webkit-border-image-width 9px 9px 9px 9px
+    -webkit-border-image-outset 6px 6px 6px 6px
     -webkit-border-image-repeat stretch stretch 
     -webkit-border-image-source url('/img/frame.png') 
     

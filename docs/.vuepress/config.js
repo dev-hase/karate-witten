@@ -4,6 +4,12 @@ module.exports = {
 
   extend: '@vuepress/theme-default',
 
+    locales: {
+      "/": {
+        lang: "de-DE"
+      }
+    },
+
   head: [
     ['link', { rel: 'icon', href: '/img/icon-512x512.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
