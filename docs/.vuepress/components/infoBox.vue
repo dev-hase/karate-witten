@@ -1,7 +1,7 @@
 <template>
     <div class="infoBox">
         
-        <img :src="infoImg" :alt="infoTitle" class="titleImg" />
+        <img :src="infoImg" class="titleImg" />
 
         <img v-if="isSecondImg" :src="secondImg" />
 
@@ -40,8 +40,8 @@ export default {
     grid-gap 2.25rem
     margin 3rem 0
 
-    @media (max-width $MQMobile)
-        grid-gap 1rem
+    @media (max-width 1200px)
+        grid-gap 1.25rem
         grid-template-columns 1fr 2fr
     @media (max-width $MQMobileNarrow)
         display flex
@@ -52,22 +52,18 @@ export default {
         //grid-column 1
         align-self center
 
-        //border 3px solid transparent
-        border-style solid
-        border-color transparent
-        border-image-width 3px
-        box-sizing border-box
+        border 3px solid #222
 
 
         border-image-slice 45 38 36 56 
-        border-image-width 9px 9px 9px 9px 
-        border-image-outset 4px 4px 4px 4px 
+        border-image-width 11px 11px 11px 11px 
+        border-image-outset 6px 6px 6px 6px 
         border-image-repeat stretch stretch 
         border-image-source url('/img/frame.png')
 
         -webkit-border-image-slice 45 38 36 56 
-        -webkit-border-image-width 9px 9px 9px 9px 
-        -webkit-border-image-outset 4px 4px 9px 9px 
+        -webkit-border-image-width 11px 11px 11px 11px 
+        -webkit-border-image-outset 6px 6px 6px 6px 
         -webkit-border-image-repeat stretch stretch 
         -webkit-border-image-source url('/img/frame.png') 
 
@@ -76,7 +72,7 @@ export default {
         grid-row 1 / span 2
 
         h3
-            margin-top 0.5rem
+            margin-top 0.25rem
 
 
 </style>
