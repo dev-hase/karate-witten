@@ -83,6 +83,7 @@ module.exports = {
             children: [
                 ['/grundlagen/angriffsstufen', 'Angriffsstufen'],
                 ['/grundlagen/staende', 'Stände'],
+                ['/grundlagen/tsuki', 'Tsuki'],
                 ['/grundlagen/handtechniken', 'Handtechniken'],
                 ['/grundlagen/mawashi-uke', 'Mawashi Uke'],
                 ['/grundlagen/kakie', 'Kakie'],
