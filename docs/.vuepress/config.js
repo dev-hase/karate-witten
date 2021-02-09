@@ -87,7 +87,11 @@ module.exports = {
                 ['/grundlagen/handtechniken', 'Handtechniken'],
                 ['/grundlagen/mawashi-uke', 'Mawashi Uke'],
                 ['/grundlagen/kakie', 'Kakie'],
+                ['/grundlagen/gedan-barei', 'Gedan Barei'],
+                ['/grundlagen/age-uke', 'Age Uke'],
+                ['/grundlagen/yoko-uke', 'Yoko Uke'],
                 ['/grundlagen/shuto-uke', 'Shuto Uke'],
+                ['/grundlagen/mae-geri', 'Mae Geri'],
                 ['/grundlagen/fallschule', 'Fallschule'],
                 ['/grundlagen/vitalpunkte', 'Vitalpunkte'],
             ]

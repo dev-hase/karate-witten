@@ -6,6 +6,8 @@ Möglich als Abwehr oder Angriffstechnik zur Mitte ausgeführt mit der offenen H
 
 :::
 
+<YouTube videoid="b3FJWscq8Bs" start="19"/>
+
 ### mögliche Anwendung 
 
 ::: tip

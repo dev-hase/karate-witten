@@ -48,6 +48,8 @@ Beispiel: Bei der Linksauslage erfolgt die Ausführung eines Gyaku-Tsuki, indem 
 
 :::
 
+<YouTube videoid="g4go1rXoOkg" start="19"/>
+
 <YouTube videoid="OGRYjpP2fqA" />
 
 <YouTube videoid="2gkBhN4A9Dw" start="144"/>

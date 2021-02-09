@@ -16,4 +16,14 @@ Berichten zufolge reiste einer seiner Schüler, der zuvor eine Skizze des Busaga
 
 :::
 
+::: danger
+
+## Wichtig!
+
+Die hier zusammengetragenen Informationen repräsentieren nicht immer exakt unseren Stil und unsere Terminologie und sollen daher vielmehr lediglich zur Veranschaulichung und zum allgemeinen Verständnis von Techniken und Prinzipien beitragen.
+
+**Für die in unserem Stil korrekte Ausführung haltet euch bitte an die Lehre und Anweisungen Eurer Senseis!**
+
+:::
+
 <showWikiLinks />
