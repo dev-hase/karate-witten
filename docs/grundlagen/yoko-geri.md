@@ -22,4 +22,6 @@ Der Side-Kick (jap. 横蹴り, yoko geri, kor. yeop chagi) ist eine Beintechnik;
 
 :::
 
-<YouTube videoid="yxB1rRXtIGI" start="19"/>
+<YouTube videoid="yxB1rRXtIGI" start="19" desc="Yoko Geri Kekomi" />
+
+<YouTube videoid="clLMwEpzLOg" start="19" desc="Yoko Geri Keage" />

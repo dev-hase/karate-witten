@@ -62,7 +62,7 @@ export default {
 
     .rellaxFrontImage
         position absolute
-        bottom 0
+        bottom -1rem
         left 0
         width 100%
         max-height 95%
