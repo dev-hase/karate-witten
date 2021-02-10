@@ -17,7 +17,7 @@
     align-items center
     justify-content space-around
     margin-top 3.5rem
-    margin-bottom -2.5rem
+    margin-bottom -4.5rem
 
 .logoDesc
     margin 0 1.5rem

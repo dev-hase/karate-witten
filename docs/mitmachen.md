@@ -10,7 +10,7 @@ sidebar: auto
 
 ::: warning 
 
-Du kannst jederzeit *kostenlos und unverbindlich* an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen. 
+Du kannst jederzeit **kostenlos und unverbindlich** an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen. 
 
 **Zudem findet regelmäßig ein Schnupperkurs für Anfänger statt, den wir für einen Einstieg besonders empfehlen!** Ideal ist es dann natürlich von Anfang an dabei zu sein, trotzdem ist ein Einstieg auch in den Wochen danach noch möglich.
 
