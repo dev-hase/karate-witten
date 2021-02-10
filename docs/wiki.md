@@ -27,3 +27,5 @@ Die hier zusammengetragenen Informationen repräsentieren nicht immer exakt unse
 :::
 
 <showWikiLinks />
+
+<fussnote />

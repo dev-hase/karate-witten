@@ -2,20 +2,21 @@
 sidebar: auto
 ---
 
-# Einfach mitmachen!
+# Einfach mitmachen...
 
 <warnung nachricht="Zur Zeit finden aufgrund der aktuellen Situation keine Trainingseinheiten statt; können wir das Training wieder aufnehmen, seid Ihr herzlich willkommen!" nTitel="Corona Lockdown" nTyp="warning" />
 
+## ...schau doch mal rein!
+
 ::: warning 
 
-#### ...schau doch mal rein!
+Du kannst jederzeit *kostenlos und unverbindlich* an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen. 
 
-Du kannst jederzeit kostenlos und unverbindlich an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen. *Zudem findet regelmäßig ein Schnupperkurs für Anfänger statt, den wir für einen Einstieg besonders empfehlen!*
+**Zudem findet regelmäßig ein Schnupperkurs für Anfänger statt, den wir für einen Einstieg besonders empfehlen!** Ideal ist es dann natürlich von Anfang an dabei zu sein, trotzdem ist ein Einstieg auch in den Wochen danach noch möglich.
 
-Für Deinen Einstieg und für die Trainingseinheiten musst Du nicht viel mitbringen: Als Kleidung genügen eine Sporthose und ein Sport- oder T-Shirt. Turnschuhe sind nicht nötig, denn wir trainieren barfuss. Ratsam ist auf jeden Fall genügend Getränke dabei zu haben - wir bitten nur darum, keine Glasflaschen zu benutzen.
+Für die Trainingseinheiten musst Du nicht viel mitbringen: Wenn Du keinen Karate-Gi hast, genügen als Kleidung eine Sporthose und ein Sport- oder T-Shirt. Turnschuhe sind nicht nötig, denn wir trainieren barfuss. Ratsam ist auf jeden Fall genügend Getränke dabei zu haben - wir bitten nur darum, keine Glasflaschen zu benutzen.
 
-Und alles andere gehen wir dann gemeinsam in den Trainingseinheiten an. Ideal ist es natürlich von Anfang an dabei zu sein, trotzdem ist ein Einstieg auch in den Wochen danach noch möglich.
-
+Und alles andere gehen wir dann gemeinsam in den Trainingseinheiten an!
 :::
 
 ## Schnupperkus
@@ -25,6 +26,8 @@ Und alles andere gehen wir dann gemeinsam in den Trainingseinheiten an. Ideal is
 #### Kostenlos und unverbindlich
 
 Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die aktuelle Lage es zulässt, werden wir natürlich sofort wieder loslegen!
+
+Wenn Du informiert werden möchtest, wann der nächste Einstieg stattfindet, schicke einfach eine Mail an: in<span class="hideMe">gojuryu</span>fo@karate-witten.de
 
 ::: 
 
@@ -56,9 +59,13 @@ Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die 
 
 ## Der Karate-Gi
 
+::: warning
+
 Die Kleidung, die wir beim Training tragen, nennt sich Karate-Gi und besteht aus einer Gi-Hose, einem Gi-Oberteil und einem Gürtel (Obi). Die Farbe des Karate-Gi ist traditionell weiß.
 
 Selbstverständlich könnt Ihr Anzüge aus anderen Kampfsportarten vorerst weiter nutzen. Ihr dürft auch weiter in Sportkleidung am Training teilnehmen, könnt dann allerdings die Halte-, Greif- und Wurfübungen nur eingeschränkt mitmachen.
+
+:::
 
 *Für die Karate-Prüfungen ist ein weißer Kampfsportanzug verpflichtend. Ab der Prüfung zum 6. Kyu (grüner Gurt) sollte es auch wirklich ein Karate-Gi sein!*
 
@@ -72,10 +79,14 @@ Gürtel richtig binden, Karate-Gi gekonnt zusammenlegen; diese und weitere Ferti
 
 ## Karate-Zubehör
 
+::: warning
+
 Wir empfehlen allen 13 bis 35 jährigen, fortgeschrittenen Karatekas (ab dem 8. Kyu / gelber Gurt) sich - gemäß der bestehenden Prüfungsordnung - folgende Jiyu-Kumite-Ausrüstungen zuzulegen: 
 
 - Zahnschutz
 - Faustschützer
 - geschlechtsspezifisch einen Brust- bzw. einen Tiefschutz
 
+:::
 
+<fussnote />

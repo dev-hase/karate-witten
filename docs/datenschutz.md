@@ -32,3 +32,5 @@ Natorpstr. 39 b
 Deutschland  
 Tel.: +49 1<span class="hideMe">gojuryu</span>62 2843060  
 in<span class="hideMe">gojuryu</span>fo@karate-witten.de
+
+<fussnote />

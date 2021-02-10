@@ -92,6 +92,7 @@ module.exports = {
                 ['/grundlagen/yoko-uke', 'Yoko Uke'],
                 ['/grundlagen/shuto-uke', 'Shuto Uke'],
                 ['/grundlagen/mae-geri', 'Mae Geri'],
+                ['/grundlagen/yoko-geri', 'Yoko Geri'],
                 ['/grundlagen/fallschule', 'Fallschule'],
                 ['/grundlagen/vitalpunkte', 'Vitalpunkte'],
             ]

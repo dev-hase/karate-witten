@@ -58,3 +58,5 @@ Natorp str. 39B
 44795 Bochum
 
 :::
+
+<fussnote />
