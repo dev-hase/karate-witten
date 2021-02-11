@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Karate Witten',
+  title: 'Karate-Dō Witten',
   description: 'Abteilung Karate der Turngemeinde Witten e.V.',
 
   extend: '@vuepress/theme-default',
@@ -95,6 +95,7 @@ module.exports = {
                 ['/grundlagen/yoko-geri', 'Yoko Geri'],
                 ['/grundlagen/mawashi-geri', 'Mawashi Geri'],
                 ['/grundlagen/ushiro-geri', 'Ushiro Geri'],
+                ['/grundlagen/kansetsu-geri', 'Kansetsu Geri'],
                 ['/grundlagen/fallschule', 'Fallschule'],
                 ['/grundlagen/vitalpunkte', 'Vitalpunkte'],
             ]
