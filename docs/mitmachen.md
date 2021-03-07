@@ -57,9 +57,31 @@ Wenn Du informiert werden möchtest, wann der nächste Einstieg stattfindet, sch
 
 :::
 
-## Der Karate-Gi
+## Formulare Anmeldung / Kündigung
 
 ::: warning
+
+#### Formulare zum downloaden und ausdrucken...
+
+Diese beiden Formulare benötigt Ihr für die Anmeldung; gib beide, zusammen mit möglichen weiteren Unterlagen, bei Deinem Trainer / Deiner Trainerin ab:
+
+- <a href='/media/TGW-Aufnahmeantrag.pdf' target='_blank'>Aufnahmeantrag</a>
+- <a href='/media/TGW-Karate-Datenformular.pdf' target='_blank'>Datenformular zum Aufnahmeantrag</a>
+
+Uns ist es wichtig, daß Du Dich bewusst entscheidest Karate-Do bei uns zu trainieren, daher hier zwei weitere Infoblätter für Dich:
+
+- <a href='/media/TGW-Karate-Info-Anfaenger.pdf' target='_blank'>Infoblatt für Anfänger</a>
+- <a href='/media/TGW-Karate-Infoblatt.pdf' target='_blank'>Infoblatt zur Mitgliedschaft</a>
+
+Möchtest oder kannst Du nicht mehr länger bei uns Mitglied sein:
+
+- <a href='/media/TGW-Kündigung-der-Mitgliedschaft.pdf' target='_blank'>Kündigung der Mitgliedschaft</a>
+
+:::
+
+## Der Karate-Gi
+
+::: tip
 
 Die Kleidung, die wir beim Training tragen, nennt sich Karate-Gi und besteht aus einer Gi-Hose, einem Gi-Oberteil und einem Gürtel (Obi). Die Farbe des Karate-Gi ist traditionell weiß.
 
@@ -79,7 +101,7 @@ Gürtel richtig binden, Karate-Gi gekonnt zusammenlegen; diese und weitere Ferti
 
 ## Karate-Zubehör
 
-::: warning
+::: tip
 
 Wir empfehlen allen 13 bis 35 jährigen, fortgeschrittenen Karatekas (ab dem 8. Kyu / gelber Gurt) sich - gemäß der bestehenden Prüfungsordnung - folgende Jiyu-Kumite-Ausrüstungen zuzulegen: 
 
