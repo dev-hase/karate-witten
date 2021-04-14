@@ -1,10 +1,10 @@
 ---
 home: true
 pageClass: landingPage
-heroImage: /img/cover-logo.png
+heroImage: "/img/cover-logo.png"
 sidebar: false
----
 
+---
 # Aktuell
 
 ::: danger 
@@ -16,6 +16,22 @@ Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sow
 
 :::
 
+::: danger
+
+# Achtung!
+
+Wir haben den Anbieter für unser Online-Angebot gewechselt und nutzen ab sofort zoom.
+ 
+Eine Teilnahme zu allen unseren online-Veranstaltungen ist ab sofort unter folgendem Link möglich:
+
+[hier geht's zum Online-Angebot...](https://us02web.zoom.us/j/83468927926?pwd=blhVTDlxRXBrZEVKQ3gvZnNrTGhwZz09)
+
+(Ihr könnt die zoom-App installieren, müsst dies aber nicht. Bei der Teilnahme über den WEB-Browser müsst ihr Euren Namen angeben und das Feld "Ich bin kein Roboter" aktivieren :-))
+ 
+Wir danken dem Therapiezentrum Kemnade (TZK) mit dem angeschlossenen Verein Sport & Reha Kemnade e.V. (SRK) für die zur Verfügungstellung des Online-Meeting-Angebots.
+
+:::
+
 ::: tip  
 
 ## Online-Training / Dienstags von 19-20 Uhr
@@ -23,18 +39,15 @@ Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sow
 Wir nutzen die Stunde, um gemeinsam zu trainieren.
 D. h. ihr benötigt etwas Platz (ihr solltet einen Schritt zu allen Seiten machen können), ihr solltet sportlich vorbereitet sein (Kleidung, Getränk) und ihr solltet die Möglichkeit haben, das Training digital zu verfolgen (SmartPhone, PC, Laptop, Tablet, ...).
 
-[hier geht's zum Training...](https://www.gotomeet.me/SportRehaKemnade/tgw-karate-training)
-
 :::
 
 ::: tip
 
-## Digitaler Treff / Donnerstags von 19.00-19.30 Uhr
+## Stammtisch nach dem Training / Dienstags ab 20 Uhr
 
 Nicht nur das Training fehlt uns, sondern auch die kurzen Gespräche vor und nach dem Schwitzen.
-Wie geht es euch? Was macht ihr so ohne Training in der Halle? Schaltet Euch mit einem leckeren Getränk Eurer Wahl zu einem kurzen Quatschen zu uns - mit oder ohne Bild. Wir freuen uns euch wieder zu hören / sehen!
 
-[hier geht's zum Treff...](https://www.gotomeet.me/SportRehaKemnade/tgw-karate-training)
+Wie geht es euch? Was macht ihr so ohne Training in der Halle? Schaltet Euch mit einem leckeren Getränk Eurer Wahl zu einem kurzen Quatschen zu uns - mit oder ohne Bild. Wir freuen uns euch wieder zu hören / sehen!
 
 :::
 
@@ -57,6 +70,16 @@ Interessenten melden sich bitte bei Ralf Budde (ralf.budde@karate-witten.de) um 
 
 :::
 
+::: tip
+
+## empfhohlende Online-Angebote
+
+An verschiedenen Sonntagen bietet der GKD (Goju-Ryu Verband Deutschland) von 10 - 12 Uhr ein Online-Karate-Training aus dem Goju-Ryu Yuishinkan-Stil mit wechselnden Trainer an. Übersicht und Anmeldung findet Ihr [hier](https://www.karate-gkd.de/news/kursanmeldung)
+
+Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](www.kdnw.de)) sowie der DKV (Deutsche Karate-Verband,  [karate.de](www.karate.de)) präsentieren auf ihren Homepages diverse Online-Seminare, vorzugsweise mit prominenten Trainern oder Athleten.
+
+:::
+
 ::: tip 
 
 ## Abschied von Hanshi Fritz Nöpel
@@ -71,11 +94,31 @@ Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/71
 
 # Zum Vormerken...
  
+::: warning
+
+<a href="/media/Protokoll-Abteilungsversammlung-2020.pdf" target="_blank" />
+
+<a href="/media/JHV-2021_Einladung.pdf" target="_blank" />
+
+:::
+ 
 ::: warning 
 
-## Jahreshauptversammlung
+##  Jahreshauptversammlung - Abteilung Karate-Do der TG Witten
 
-**Dienstag, 23. Februar** findet die Jahreshauptversammlung der Abteilung Karate-Do statt. Eine Einladung wird ca. vier Wochen vorab verteilt. Der Termin könnten sich noch verschieben, sollte eine Zusammenkunft bis dahin noch nicht möglich sein!
+**27. April, Dienstag** 
+
+Eine Einladung mit Ort, Zeit, Agenda und Veranstaltungsform erhaltet Ihr in den nächsten Tagen.
+
+:::
+
+::: warning
+
+## Jahreshauptversammlung - TG Witten
+
+**28. Mai, Freitag**
+
+Näheres folgt, sobald es uns bekannt ist.
 
 :::
 
