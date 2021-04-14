@@ -16,7 +16,7 @@ Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sow
 
 :::
 
-::: danger
+::: warning
 
 # Achtung!
 
@@ -76,7 +76,7 @@ Interessenten melden sich bitte bei Ralf Budde (ralf.budde@karate-witten.de) um 
 
 An verschiedenen Sonntagen bietet der GKD (Goju-Ryu Verband Deutschland) von 10 - 12 Uhr ein Online-Karate-Training aus dem Goju-Ryu Yuishinkan-Stil mit wechselnden Trainer an. Übersicht und Anmeldung findet Ihr [hier](https://www.karate-gkd.de/news/kursanmeldung)
 
-Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](www.kdnw.de)) sowie der DKV (Deutsche Karate-Verband,  [karate.de](www.karate.de)) präsentieren auf ihren Homepages diverse Online-Seminare, vorzugsweise mit prominenten Trainern oder Athleten.
+Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](www.kdnw.de)) sowie der DKV (Deutsche Karate-Verband,  [karate.de](https://www.karate.de)) präsentieren auf ihren Homepages diverse Online-Seminare, vorzugsweise mit prominenten Trainern oder Athleten.
 
 :::
 
@@ -92,15 +92,17 @@ Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/71
 
 :::
 
-# Zum Vormerken...
+# Downloads
  
 ::: warning
 
-<a href="/media/Protokoll-Abteilungsversammlung-2020.pdf" target="_blank" />
+<a href="/media/Protokoll-Abteilungsversammlung-2020.pdf" target="_blank">Protokoll Abteilungsversammlung 2020</a>
 
-<a href="/media/JHV-2021_Einladung.pdf" target="_blank" />
+<a href="/media/JHV-2021_Einladung.pdf" target="_blank">Einladung Jahreshauptversammlung 2021</a>
 
 :::
+
+# Zum Vormerken...
  
 ::: warning 
 
