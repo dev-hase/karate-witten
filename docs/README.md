@@ -20,7 +20,7 @@ Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sow
 
 # Achtung!
 
-Wir haben den Anbieter für unser Online-Angebot gewechselt und nutzen ab sofort zoom.
+**Wir haben den Anbieter für unser Online-Angebot gewechselt und nutzen ab sofort zoom!**
  
 Eine Teilnahme zu allen unseren online-Veranstaltungen ist ab sofort unter folgendem Link möglich:
 
@@ -76,7 +76,7 @@ Interessenten melden sich bitte bei Ralf Budde (ralf.budde@karate-witten.de) um 
 
 An verschiedenen Sonntagen bietet der GKD (Goju-Ryu Verband Deutschland) von 10 - 12 Uhr ein Online-Karate-Training aus dem Goju-Ryu Yuishinkan-Stil mit wechselnden Trainer an. Übersicht und Anmeldung findet Ihr [hier](https://www.karate-gkd.de/news/kursanmeldung)
 
-Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](www.kdnw.de)) sowie der DKV (Deutsche Karate-Verband,  [karate.de](https://www.karate.de)) präsentieren auf ihren Homepages diverse Online-Seminare, vorzugsweise mit prominenten Trainern oder Athleten.
+Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](https://www.kdnw.de)) sowie der DKV (Deutsche Karate-Verband,  [karate.de](https://www.karate.de)) präsentieren auf ihren Homepages diverse Online-Seminare, vorzugsweise mit prominenten Trainern oder Athleten.
 
 :::
 
@@ -108,7 +108,7 @@ Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/71
 
 ##  Jahreshauptversammlung - Abteilung Karate-Do der TG Witten
 
-**27. April, Dienstag** 
+**27. April, Dienstag** von 19:00 Uhr (bis voraussichtlich 20:30 Uhr) per Zoom
 
 Eine Einladung mit Ort, Zeit, Agenda und Veranstaltungsform erhaltet Ihr in den nächsten Tagen.
 
