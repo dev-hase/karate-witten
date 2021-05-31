@@ -9,6 +9,10 @@ sidebar: false
 
 ::: danger 
 
+:::
+
+::: tip  
+
 # Endlich wieder Präsenztraining!
 
 Endlich ist es soweit, wir dürfen wieder in Präsenz trainieren.  
