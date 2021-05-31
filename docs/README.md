@@ -11,6 +11,8 @@ sidebar: false
 
 # Endlich wieder Präsenztraining!
 
+_31.05.2021_
+
 Endlich ist es soweit, wir dürfen wieder in Präsenz trainieren.
 
 **Schüler:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
@@ -24,7 +26,7 @@ Das Training findet natürlich nur statt, wenn Wetter und Platz-Zustand es zulas
 Während des Trainings können wir uns unter Einhaltung eines Abstands von 1,50 m zueinander frei bewegen. Ausserhalb des Trainings ist auf dem Gelände der Jahnanlage eine FFP2-Maske zu tragen.
 Die Umkleiden können nicht genutzt werden. Daher bitte umgezogen zum Training kommen. Ob Karate-Gi oder Trainingsanzug, ob Turnschuhe oder Barfuss - so wie ihr Euch wohl fühlt.
 
-Weiter müssen wir darauf hinweisen, dass wir die Anwesenheiten während des Präsenz-Trainings festhalten, um die vorgeschriebene Nachverfolgung sicherzustellen. _31.05.2021_
+Weiter müssen wir darauf hinweisen, dass wir die Anwesenheiten während des Präsenz-Trainings festhalten, um die vorgeschriebene Nachverfolgung sicherzustellen.
 
 :::
 
