@@ -7,33 +7,32 @@ sidebar: false
 ---
 # Aktuell
 
-::: danger 
+::: danger
 
 :::
 
-::: tip  
+::: tip
 
 # Endlich wieder Präsenztraining!
 
-Endlich ist es soweit, wir dürfen wieder in Präsenz trainieren.  
+Endlich ist es soweit, wir dürfen wieder in Präsenz trainieren.
 
-Schüler: mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
-Junioren & Erwachsene: mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
- 
+**Schüler:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
+**Junioren & Erwachsene:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
+
 Ab sofort haben wir die Möglichkeit auf dem Sportplatz gemeinsam zu trainieren. Schwerpunkt des Trainings wird es neben dem Aufbau von Fitness und Flexibilität sein wieder in unsere Abläufe zu kommen und individuelles Coaching zu erhalten.
- 
-Achtung: 
-Das Training findet natürlich nur statt, wenn Wetter und Platz-Zustand es zulassen, d. h. es muss trocken sein und sollte nicht unmittelbar davor geregnet haben! 
-Während des Trainings können wir uns unter Einhaltung eines Abstands von 1,50 m zueinander frei bewegen. Ausserhalb des Trainings ist auf dem Gelände der Jahnanlage eine FFP2-Maske zu tragen. 
+
+Achtung:
+Das Training findet natürlich nur statt, wenn Wetter und Platz-Zustand es zulassen, d. h. es muss trocken sein und sollte nicht unmittelbar davor geregnet haben!
+Während des Trainings können wir uns unter Einhaltung eines Abstands von 1,50 m zueinander frei bewegen. Ausserhalb des Trainings ist auf dem Gelände der Jahnanlage eine FFP2-Maske zu tragen.
 Die Umkleiden können nicht genutzt werden. Daher bitte umgezogen zum Training kommen. Ob Karate-Gi oder Trainingsanzug, ob Turnschuhe oder Barfuss - so wie ihr Euch wohl fühlt.
- 
+
 Weiter müssen wir darauf hinweisen, dass wir die Anwesenheiten während des Präsenz-Trainings festhalten, um die vorgeschriebene Nachverfolgung sicherzustellen.
- 
 
 # Corona Lockdown!!!
 
 Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
-Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an! 
+Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an!
 
 :::
 
@@ -42,18 +41,18 @@ Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sow
 # Achtung!
 
 **Wir haben den Anbieter für unser Online-Angebot gewechselt und nutzen ab sofort zoom!**
- 
+
 Eine Teilnahme zu allen unseren online-Veranstaltungen ist ab sofort unter folgendem Link möglich:
 
 [hier geht's zum Online-Angebot...](https://us02web.zoom.us/j/83468927926?pwd=blhVTDlxRXBrZEVKQ3gvZnNrTGhwZz09)
 
 (Ihr könnt die zoom-App installieren, müsst dies aber nicht. Bei der Teilnahme über den WEB-Browser müsst ihr Euren Namen angeben und das Feld "Ich bin kein Roboter" aktivieren :-))
- 
+
 Wir danken dem Therapiezentrum Kemnade (TZK) mit dem angeschlossenen Verein Sport & Reha Kemnade e.V. (SRK) für die zur Verfügungstellung des Online-Meeting-Angebots.
 
 :::
 
-::: tip  
+::: tip
 
 ## Online-Training / Dienstags von 19-20 Uhr
 
@@ -72,7 +71,7 @@ Wie geht es euch? Was macht ihr so ohne Training in der Halle? Schaltet Euch mit
 
 :::
 
-::: tip 
+::: tip
 
 ## Persönliches Coaching
 
@@ -82,7 +81,7 @@ Wer zielgerichtete Anregungen für sich bzw. seine Situation sucht oder einfach 
 
 :::
 
-::: tip 
+::: tip
 
 ## Kobudo
 
@@ -101,7 +100,7 @@ Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](https://www.kdnw.de)) sowie der
 
 :::
 
-::: tip 
+::: tip
 
 ## Abschied von Hanshi Fritz Nöpel
 
@@ -109,12 +108,12 @@ Auch der KDNW (Karate-Dachverband NRW, [kdnw.de](https://www.kdnw.de)) sowie der
 
 Wir nehmen Abschied von der prägendsten Persönlichkeit im GOJU-Ryu Karate-Do in Deutschland. Fritz Nöpel war der Wegbereiter des Gōjū-Ryū-Karate in Deutschland. Er war Träger des 10. Dan und des Ehrentitels Hanshi und damit höchstgraduierter Dan-Träger im Deutschen Karate Verband. Er verstarb am 19. November 2020. Fritz Nöpel wurde 85 Jahre alt.
 
-Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/710-abschied-von-hanshi-fritz-noepel) 
+Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/710-abschied-von-hanshi-fritz-noepel)
 
 :::
 
 # Downloads
- 
+
 ::: warning
 
 <a href="/media/Protokoll-Abteilungsversammlung-2020.pdf" target="_blank">Protokoll Abteilungsversammlung 2020</a>
@@ -124,10 +123,10 @@ Ein Nachruf findet Ihr unter anderem [hier...](https://www.karate-gkd.de/news/71
 :::
 
 # Zum Vormerken...
- 
-::: warning 
 
-##  Jahreshauptversammlung - Abteilung Karate-Do der TG Witten
+::: warning
+
+## Jahreshauptversammlung - Abteilung Karate-Do der TG Witten
 
 **27. April, Dienstag** von 19:00 Uhr (bis voraussichtlich 20:30 Uhr) per Zoom
 
@@ -145,18 +144,17 @@ Näheres folgt, sobald es uns bekannt ist.
 
 :::
 
-::: warning 
+::: warning
 
 ## Jahresauftaktessen
- 
+
 Unser gemeinsames Jahresauftaktessen werden wir selbstverständlich nachholen, sobald dies wieder möglich ist.
 
 :::
- 
+
 Habt Ihr noch Fragen?
 Sprecht uns gerne an.
- 
- 
+
 Bleibt gesund & munter!
 
 <fussnote />
