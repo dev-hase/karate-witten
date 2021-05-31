@@ -7,8 +7,6 @@ sidebar: false
 ---
 # Aktuell
 
-::: danger
-
 :::
 
 ::: tip
@@ -18,6 +16,7 @@ sidebar: false
 Endlich ist es soweit, wir dürfen wieder in Präsenz trainieren.
 
 **Schüler:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
+
 **Junioren & Erwachsene:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
 
 Ab sofort haben wir die Möglichkeit auf dem Sportplatz gemeinsam zu trainieren. Schwerpunkt des Trainings wird es neben dem Aufbau von Fitness und Flexibilität sein wieder in unsere Abläufe zu kommen und individuelles Coaching zu erhalten.
@@ -28,6 +27,10 @@ Während des Trainings können wir uns unter Einhaltung eines Abstands von 1,50 
 Die Umkleiden können nicht genutzt werden. Daher bitte umgezogen zum Training kommen. Ob Karate-Gi oder Trainingsanzug, ob Turnschuhe oder Barfuss - so wie ihr Euch wohl fühlt.
 
 Weiter müssen wir darauf hinweisen, dass wir die Anwesenheiten während des Präsenz-Trainings festhalten, um die vorgeschriebene Nachverfolgung sicherzustellen.
+
+:::
+
+::: danger
 
 # Corona Lockdown!!!
 
