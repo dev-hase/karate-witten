@@ -15,7 +15,7 @@ _31.05.2021_
 
 Endlich ist es soweit, wir dürfen wieder in Präsenz trainieren.
 
-**Schüler:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
+**Schüler:** mittwochs, 17.30 - 18.30 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
 
 **Junioren & Erwachsene:** mittwochs, 18.30 - 20.00 Uhr, Präsenz-Training auf dem Jahn-Sportplatz
 
