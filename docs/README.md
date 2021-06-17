@@ -9,6 +9,17 @@ sidebar: false
 
 ::: tip
 
+_17.06.2021_
+
+#### Einladung zur Jahreshauptversammlung der TG Witten!
+
+**Wann:** 02.07.2021 um 19 Uhr
+**Wo:** Clubheim Matchball Jahnstr. 11, 58455 Witten
+
+:::
+
+::: tip
+
 # Endlich wieder Präsenztraining!
 
 _31.05.2021_
