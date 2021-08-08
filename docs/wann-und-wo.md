@@ -1,82 +1,72 @@
 ---
 sidebar: auto
+
 ---
-
 # Wann und Wo?
-
-<warnung nachricht="Wegen des aktuellen Lockdowns entfällt derzeit das Präsenztraining!!!
-Wir bieten daher neben einem Online-Training auch ein persönliches Coaching sowie einen digitalen Kaffeeklatsch an > <a href=/#aktuell'>Aktuelles</a>" nTitel="Corona Lockdown" nTyp="warning" />
 
 ## Zeiten
 
-### Schüler 
+### Schüler
 
 ::: tip
 
 #### 8–12 Jahre
 
 Dienstags
-17:30–18:30 Uhr
+18:00–19:00 Uhr
 kleine Jahnhalle
 
 Donnerstags
-17:30–18:30 Uhr
+18:00–19:00 Uhr
 kleine Jahnhalle
 
 Ansprechpartnerin: Birgit Neugebauer
 
 :::
 
-### Junioren 
+### Junioren
 
-::: tip 
+::: tip
 
 #### 13–17 Jahre
 
-Montags
-17:30–18:30 Uhr
-Turnhalle Overbergschule
-
-Mittwochs
-18:00–19:30 Uhr
-Jahn-Sportplatz (Fitness-Einheit)
+Dienstags
+19:00–20:00 Uhr
+kleine Jahnhalle
 
 Donnerstags
-19:00–20.30 Uhr (zusammen mit der Erwachsenengruppe)
+19:00–20:00 Uhr
 kleine Jahnhalle
 
 Ansprechpartner: Ralf Baier
 
 :::
 
-### Erwachsene 
+### Erwachsene
 
-::: tip 
+::: tip
 
 #### ab 18
 
 Dienstags
-19:00–20:30 Uhr
+19:00–21:00 Uhr
 kleine Jahnhalle
 
-Mittwochs
-18:00–20:30 Uhr
-Jahn-Sportplatz Fitness-Einheit
-
 Donnerstags
-19:10–20:30 Uhr (zusammen mit der Juniorengruppe) kleine Jahnhalle
+19:00–21:00 Uhr
+kleine Jahnhalle
 
 Ansprechpartner: Ralf Budde
 
 :::
 
-### Kobudo 
+### Kobudo
 
-::: tip 
+::: tip
 
 #### (ab 14 und orangenem Gürtel)
 
-*Aktuell keine regelmäßige Trainingszeit!*
+_Aktuell keine regelmäßige Trainingszeit!_
 
 Derzeit können wir leider keine separate Trainingszeit anbieten. Wir informieren, sobald dies wieder möglich ist.
 
@@ -130,4 +120,3 @@ Nähe Husemannhalle; Zugang über Husemannstraße/Rheinscher Berg
 :::
 
 <fussnote />
-
