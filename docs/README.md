@@ -9,6 +9,21 @@ sidebar: false
 
 ::: tip
 
+_Update 08.08.2021_
+
+# Ausgliederungs-/Verschmelzungsversammlung der Triathlonabteilung der Turngemeinde Witten von 1848 e.V. mit dem PV Triathlon Witten e.V.
+
+**Wann:** 20.08.2021 um 18:30 Uhr
+
+
+**Wo:** Erlöserkirche, Westfeldstraße 8, 58453 Witten
+
+http://www.tgwitten.de/2021/07/16/einladung-ausserordentliche-mitgliederversammlung/
+
+:::
+
+::: tip
+
 _17.06.2021_
 
 # Einladung zur Jahreshauptversammlung der TG Witten!
