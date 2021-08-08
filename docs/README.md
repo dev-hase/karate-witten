@@ -9,7 +9,7 @@ sidebar: false
 
 ::: tip
 
-_Update 08.08.2021_
+_08.08.2021_
 
 # Ausgliederungs-/Verschmelzungsversammlung der Triathlonabteilung der Turngemeinde Witten von 1848 e.V. mit dem PV Triathlon Witten e.V.
 
