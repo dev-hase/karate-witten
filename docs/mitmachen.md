@@ -1,10 +1,8 @@
 ---
 sidebar: auto
+
 ---
-
 # Einfach mitmachen...
-
-<warnung nachricht="Zur Zeit finden aufgrund der aktuellen Situation keine Trainingseinheiten statt; können wir das Training wieder aufnehmen, seid Ihr herzlich willkommen!" nTitel="Corona Lockdown" nTyp="warning" />
 
 ## ...schau doch mal rein!
 
