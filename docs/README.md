@@ -9,12 +9,24 @@ sidebar: false
 
 ::: tip
 
+_August.2021_
+
+
+Liebe Karatekas,
+ 
+ 
+mit großem Bedauern müssen wir Euch den Tod unseres langjährigen Mitglieds Marcel Aschmoneit mitteilen - er verstarb für uns alle überraschenden im Juli 2021. Unsere Gedanken sind insbesondere bei Sabrina, seiner Frau sowie den Kindern und den Angehörigen und Freunden.
+Marcel und "Brini" waren lange in der Karate-Abteilung als Teilnehmer und später als Trainer aktiv, haben insbesondere in der Jugendarbeit mit ihrem großen Engagement noch heute sichtbare Spuren hinterlassen. 
+
+:::
+
+::: tip
+
 _08.08.2021_
 
 # Ausgliederungs-/Verschmelzungsversammlung der Triathlonabteilung der Turngemeinde Witten von 1848 e.V. mit dem PV Triathlon Witten e.V.
 
 **Wann:** 20.08.2021 um 18:30 Uhr
-
 
 **Wo:** Erlöserkirche, Westfeldstraße 8, 58453 Witten
 
@@ -29,7 +41,6 @@ _17.06.2021_
 # Einladung zur Jahreshauptversammlung der TG Witten!
 
 **Wann:** 02.07.2021 um 19 Uhr
-
 
 **Wo:** Clubheim Matchball Jahnstr. 11, 58455 Witten
 
