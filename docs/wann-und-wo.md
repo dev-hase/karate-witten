@@ -13,11 +13,11 @@ sidebar: auto
 #### 8–12 Jahre
 
 Dienstags
-18:00–19:00 Uhr
+17:30–18:30 Uhr
 kleine Jahnhalle
 
 Donnerstags
-18:00–19:00 Uhr
+17:30–18:30 Uhr
 kleine Jahnhalle
 
 Ansprechpartnerin: Birgit Neugebauer
@@ -31,11 +31,11 @@ Ansprechpartnerin: Birgit Neugebauer
 #### 13–17 Jahre
 
 Dienstags
-19:00–20:00 Uhr
+18:30–19:30 Uhr
 kleine Jahnhalle
 
 Donnerstags
-19:00–20:00 Uhr
+18:30–19:45 Uhr
 kleine Jahnhalle
 
 Ansprechpartner: Ralf Baier
@@ -49,12 +49,17 @@ Ansprechpartner: Ralf Baier
 #### ab 18
 
 Dienstags
-19:00–21:00 Uhr
+19:30–21:00 Uhr
 kleine Jahnhalle
 
-Donnerstags
-19:00–21:00 Uhr
-kleine Jahnhalle
+Freitags
+19:30–21:00 Uhr
+Turnhalle der Overbergschule
+
+zusätzlich Freitags
+18:30–19:30 Uhr
+Turnhalle der Overbergschule
+für fortgeschrittene Karateka (ab 3. Kyu)
 
 Ansprechpartner: Ralf Budde
 
