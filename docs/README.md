@@ -9,7 +9,7 @@ sidebar: false
 
 ::: tip
 
-_August.2021_
+_August 2021_
 
 ## Abschied von Marcel
 
