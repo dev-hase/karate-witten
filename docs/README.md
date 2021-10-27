@@ -15,23 +15,22 @@ _Oktober 2021_
 
 Liebe Karatekas,
 
-Am Samstag, den 30. Oktober findet dieses Jahr die Kata Challenge statt und dazu möchten wir euch recht herzlich einladen. Ein intensives Erlebnis, was euer Durchhaltevermögen und euren Ehrgeiz auf die Probe stellt.
-Das Ziel: 100 Wiederholungen einer Kata 型
-Ob in der Gruppe oder allein, ob langsam oder schnell, spielt keine Rolle.
-Jede/r kann sich hier austoben nach ihrem/seinem eigenen Geschmack.
-Inzwischen ist das Event zu einer kleinen Tradition geworden und wir würden uns freuen, wenn ihr diese mit uns fortführt. Natürlich werden wir wieder schauen ein kleines Rahmenprogramm zu schaffen.
-Die Aktion findet weltweit statt und geht auf eine Initiative aus Okinawa zurück,
-um den Spirit von Karate in die Welt zu tragen ...
-Also traut euch und nehmt die Herausforderung an!
-**Wann:** Samstag, 30. Oktober 2021
-**Einlass und Aufwärmen:** ab 14 Uhr
-**Start der ersten gemeinsamen Kata:** pünktlich um 14.30 Uhr
-Ende ist, wenn alle fertig sind, ca. 17 – 18 Uhr
-**Wo:** Turnhalle der Overbergschule (Rhienscher Berg 12, Witten)
-**Wer:** Alle Karate-Kata-Begeisterten,die mindestens eine Kata laufen können
-**Kosten:** Keine
-Anmeldung Ist nicht erforderlich
-
+* Am Samstag, den 30. Oktober findet dieses Jahr die Kata Challenge statt und dazu möchten wir euch recht herzlich einladen. Ein intensives Erlebnis, was euer Durchhaltevermögen und euren Ehrgeiz auf die Probe stellt.
+  Das Ziel: 100 Wiederholungen einer Kata 型
+  Ob in der Gruppe oder allein, ob langsam oder schnell, spielt keine Rolle.
+  Jede/r kann sich hier austoben nach ihrem/seinem eigenen Geschmack.
+  Inzwischen ist das Event zu einer kleinen Tradition geworden und wir würden uns freuen, wenn ihr diese mit uns fortführt. Natürlich werden wir wieder schauen ein kleines Rahmenprogramm zu schaffen.
+  Die Aktion findet weltweit statt und geht auf eine Initiative aus Okinawa zurück,
+  um den Spirit von Karate in die Welt zu tragen ...
+  Also traut euch und nehmt die Herausforderung an!
+  **Wann:** Samstag, 30. Oktober 2021
+  **Einlass und Aufwärmen:** ab 14 Uhr
+  **Start der ersten gemeinsamen Kata:** pünktlich um 14.30 Uhr
+  Ende ist, wenn alle fertig sind, ca. 17 – 18 Uhr
+  **Wo:** Turnhalle der Overbergschule (Rhienscher Berg 12, Witten)
+  **Wer:** Alle Karate-Kata-Begeisterten,die mindestens eine Kata laufen können
+  **Kosten:** Keine
+  Anmeldung Ist nicht erforderlich
 
 :::
 
@@ -42,10 +41,9 @@ _August 2021_
 ## Abschied von Marcel
 
 Liebe Karatekas,
- 
- 
+
 mit großem Bedauern müssen wir Euch den Tod unseres langjährigen Mitglieds Marcel Aschmoneit mitteilen - er verstarb für uns alle überraschenden im Juli 2021. Unsere Gedanken sind insbesondere bei Sabrina, seiner Frau sowie den Kindern und den Angehörigen und Freunden.
-Marcel und "Brini" waren lange in der Karate-Abteilung als Teilnehmer und später als Trainer aktiv, haben insbesondere in der Jugendarbeit mit ihrem großen Engagement noch heute sichtbare Spuren hinterlassen. 
+Marcel und "Brini" waren lange in der Karate-Abteilung als Teilnehmer und später als Trainer aktiv, haben insbesondere in der Jugendarbeit mit ihrem großen Engagement noch heute sichtbare Spuren hinterlassen.
 
 :::
 
