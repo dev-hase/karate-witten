@@ -9,6 +9,34 @@ sidebar: false
 
 ::: tip
 
+_Oktober 2021_
+
+## 100 Kata-Challenge 2021
+
+Liebe Karatekas,
+
+Am Samstag, den 30. Oktober findet dieses Jahr die Kata Challenge statt und dazu möchten wir euch recht herzlich einladen. Ein intensives Erlebnis, was euer Durchhaltevermögen und euren Ehrgeiz auf die Probe stellt.
+Das Ziel: 100 Wiederholungen einer Kata 型
+Ob in der Gruppe oder allein, ob langsam oder schnell, spielt keine Rolle.
+Jede/r kann sich hier austoben nach ihrem/seinem eigenen Geschmack.
+Inzwischen ist das Event zu einer kleinen Tradition geworden und wir würden uns freuen, wenn ihr diese mit uns fortführt. Natürlich werden wir wieder schauen ein kleines Rahmenprogramm zu schaffen.
+Die Aktion findet weltweit statt und geht auf eine Initiative aus Okinawa zurück,
+um den Spirit von Karate in die Welt zu tragen ...
+Also traut euch und nehmt die Herausforderung an!
+**Wann:** Samstag, 30. Oktober 2021
+**Einlass und Aufwärmen:** ab 14 Uhr
+**Start der ersten gemeinsamen Kata:** pünktlich um 14.30 Uhr
+Ende ist, wenn alle fertig sind, ca. 17 – 18 Uhr
+**Wo:** Turnhalle der Overbergschule (Rhienscher Berg 12, Witten)
+**Wer:** Alle Karate-Kata-Begeisterten,die mindestens eine Kata laufen können
+**Kosten:** Keine
+Anmeldung Ist nicht erforderlich
+
+
+:::
+
+::: tip
+
 _August 2021_
 
 ## Abschied von Marcel
