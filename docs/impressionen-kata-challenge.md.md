@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 pageClass: landingPage
 heroImage: "/img/100-Kata-Challenge.png"
 sidebar: false
