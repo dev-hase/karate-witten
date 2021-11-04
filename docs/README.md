@@ -13,6 +13,8 @@ sidebar: false
 
 <a href='/media/Kata-Challenge-01.jpg' target='_blank'>Kata-Challenge-01</a>
 
+<img src="/media/Kata-Challenge-01.jpg">
+
 ::: tip
 
 :::
