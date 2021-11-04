@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: landingPage
-heroImage: "/img/cover-logo.png"
+heroImage: "/img/100-Kata-Challenge.png"
 sidebar: false
 title: Impressionen-Kata-Challenge.md
 
