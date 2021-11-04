@@ -9,6 +9,14 @@ sidebar: false
 
 ::: tip
 
+## Impressionen der 100 Kata Challenge 2021
+
+<a href='/media/Kata-Challenge-01' target='_blank'>Kata-Challenge-01</a>
+
+::: tip
+
+:::
+
 _Oktober 2021_
 
 ## 100 Kata-Challenge 2021
