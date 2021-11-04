@@ -21,8 +21,6 @@ Wir freuen uns auf das nächste Jahr!
 
 <a href='/impressionen-kata-challenge.md' target='_blank'>100 Kata-Challenge</a>
 
-::: tip
-
 :::
 
 _Oktober 2021_
