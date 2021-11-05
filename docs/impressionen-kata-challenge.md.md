@@ -6,4 +6,4 @@ sidebar: false
 title: Impressionen-Kata-Challenge.md
 
 ---
-<img src="/media/Kata-Challenge-01.jpg" height="100" width="100">
+<img src="/media/Kata-Challenge-01.jpg" height="400" width="400">
