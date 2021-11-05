@@ -23,6 +23,8 @@ Wir freuen uns auf das nächste Jahr!
 
 :::
 
+::: tip
+
 _Oktober 2021_
 
 ## 100 Kata-Challenge 2021
