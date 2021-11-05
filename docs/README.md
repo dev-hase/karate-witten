@@ -19,7 +19,7 @@ Zum Ende entstand ein schönes Gruppenbild aller erfolgreichen Teilnehmer!
 
 Wir freuen uns auf das nächste Jahr!
 
-<a href='/impressionen-kata-challenge.md' target='_blank'>100 Kata-Challenge</a>
+<a href='/impressionen-kata-challenge.md' target='_blank'>Fotos zur 100 Kata-Challenge</a>
 
 :::
 
