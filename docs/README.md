@@ -9,6 +9,8 @@ sidebar: false
 
 ::: tip
 
+_November 2021_
+
 ## Karate trifft Trampolin
 
 Unsere Juniorengruppe (13 - 17 Jahre) macht einen Ausflug in die Trampolinhalle in Witten.
