@@ -17,7 +17,7 @@ Wann:   Samstag, 20. November (Treff ist um 14.30 Uhr, Event geht von 15.00 - 16
  
 Kosten:   5 Euro 
  
-Alle weiteren Infos findet Ihr hier Info_Ausflug_Trampolinhalle
+Alle weiteren Infos findet Ihr hier <a href='/media/Info_Ausflug_Trampolinhalle.pdf' target='_blank'>Fotos zur 100 Kata-Challenge</a>
 
 :::
 
