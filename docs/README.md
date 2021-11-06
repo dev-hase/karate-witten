@@ -10,14 +10,14 @@ sidebar: false
 ::: tip
 
 ## Karate trifft Trampolin
- 
+
 Unsere Juniorengruppe (13 - 17 Jahre) macht einen Ausflug in die Trampolinhalle in Witten.
- 
+
 Wann:   Samstag, 20. November (Treff ist um 14.30 Uhr, Event geht von 15.00 - 16.30 Uhr)
- 
-Kosten:   5 Euro 
- 
-Alle weiteren Infos findet Ihr hier <a href='/media/Info_Ausflug_Trampolinhalle.pdf' target='_blank'>Fotos zur 100 Kata-Challenge</a>
+
+Kosten:   5 Euro
+
+Alle weiteren Infos findet Ihr hier <a href='/media/info-brief-2021-11-20-junioren-ausflug-trampolinhalle.pdf' target='_blank'>Info_Ausflug_Trampolinhalle</a>
 
 :::
 
