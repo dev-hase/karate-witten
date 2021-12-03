@@ -9,6 +9,24 @@ sidebar: false
 
 ::: tip
 
+_Dezember 2021_
+
+## Kyu-Prüfung am Samstag 04.12.2021
+
+Samstag, 4. Dezember:   Gürtelprüfung
+Am Samstag findet wie geplant unsere Gürtelprüfung in der Turnhalle der Pferdebachschule statt.
+Einlass für unsere Schülergruppe ist 13 Uhr - bitte seid pünktlich!
+Einlass für unsere Gäste aus Castrop-Rauxel, für unserer Junioren- und für unsere Erwachsenengruppe ist 15 Uhr - bitte seid pünktlich!
+Aufgrund der pandemischen Lage haben wir uns entschlossen diese zum Schutz aller Beteiliger erstmalig ohne Zuschauer durchzuführen - wir bitten dafür um Euer Verständnis. Damit der Moment aber nicht verloren geht werden wir umfangreiches Bild- und Filmmaterial im Nachgang zur Verfügung stellen.
+Bitte denkt an die Prüfungsgebühr und die fortgeschrittenen Karatekas an ihren Karate-Pass.
+Selbstverständlich können im Nachgang wieder gebrauchte (2 Euro) oder neue (6 Euro) Farb-Gürtel erworben werden.
+
+Alle weiteren Infos findet Ihr hier <a href='/media/info-brief-2021-12-04-kyu-prufung.pdf' target='_blank'>Info_Kyu_Prüfung</a>
+
+:::
+
+::: tip
+
 _November 2021_
 
 ## Karate trifft Trampolin
