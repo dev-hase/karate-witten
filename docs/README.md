@@ -9,7 +9,7 @@ sidebar: false
 
 #### Daten
 
-Am 5. März 2022 und 12. März 2022, 14:00 bis 18:00 Uhr, in der kleinen Jahnhalle (Jahnstrasse 11, Witten)
+Am **5. März 2022** und **12. März 2022**, 14:00 bis 18:00 Uhr, in der kleinen Jahnhalle (Jahnstrasse 11, Witten)
 
 #### Kosten
 
@@ -33,6 +33,5 @@ Unter Angabe von Name und Vorname, Adresse und Geburtsdatum.
   * Genesung nicht länger als 3 Monate her (Nachweis durch PCR-Positiv-Test erforderlich)
 * für die Teilnahme sind keine Vorkenntnisse notwendig
 * genügen Sportklamotten (Sport-Shirt und Sport-Hose) sowie Socken oder Schuhe und etwas zum Überziehen für die Pausen werden benötigt
-
 
 <fussnote />
