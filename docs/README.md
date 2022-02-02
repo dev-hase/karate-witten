@@ -20,6 +20,10 @@ Kursgebühr beträgt 20 Euro (inkludiert beide Termine) und ist am ersten Kursta
 
 #### Anmeldung
 
+[Jetzt anmelden!](mailto:rabado@gmx.de)
+
+Unter Angabe von Name und Vorname, Adresse und Geburtsdatum.
+
 #### Teilnahmebedingungen
 
 * für Interessenten ab 13 Jahre
