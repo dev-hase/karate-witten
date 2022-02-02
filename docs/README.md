@@ -5,7 +5,7 @@ heroImage: "/media/roland_auswahl_03.jpg"
 sidebar: false
 
 ---
-# Schnupperkurse
+# Anfängerkurse
 
 #### Daten
 
