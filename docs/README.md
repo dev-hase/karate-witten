@@ -9,10 +9,8 @@ sidebar: false
 
 #### Daten
 
-* 
-  1. März 2022, 14:00 bis 18:00 Uhr, in der kleinen Jahnhalle (Jahnstrasse 11, Witten)
-* 
-  1. März 2022, 14:00 bis 18:00 Uhr, in der kleinen Jahnhalle (Jahnstrasse 11, Witten)
+* 5. März 2022, 14:00 bis 18:00 Uhr, in der kleinen Jahnhalle (Jahnstrasse 11, Witten)
+* 12. März 2022, 14:00 bis 18:00 Uhr, in der kleinen Jahnhalle (Jahnstrasse 11, Witten)
 
 #### Kosten
 
