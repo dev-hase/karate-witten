@@ -1,14 +1,14 @@
 ---
-sidebar: auto
+sidebar: true
 
 ---
 # Einfach mitmachen...
 
 ## ...schau doch mal rein!
 
-::: warning 
+::: warning
 
-Du kannst jederzeit **kostenlos und unverbindlich** an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen. 
+Du kannst jederzeit **kostenlos und unverbindlich** an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen.
 
 **Zudem findet regelmäßig ein Schnupperkurs für Anfänger statt, den wir für einen Einstieg besonders empfehlen!** Ideal ist es dann natürlich von Anfang an dabei zu sein, trotzdem ist ein Einstieg auch in den Wochen danach noch möglich.
 
@@ -17,41 +17,37 @@ Für die Trainingseinheiten musst Du nicht viel mitbringen: Wenn Du keinen Karat
 Und alles andere gehen wir dann gemeinsam in den Trainingseinheiten an!
 :::
 
-## Schnupperkus
+## Anfängerkurs
 
-::: warning 
+::: warning
 
-#### Kostenlos und unverbindlich
-
-Derzeit haben wir noch keinen Termin für einen neuen Schnupperkurs. Sobald die aktuelle Lage es zulässt, werden wir natürlich sofort wieder loslegen!
-
-Wenn Du informiert werden möchtest, wann der nächste Einstieg stattfindet, schicke einfach eine Mail an: in<span class="hideMe">gojuryu</span>fo@karate-witten.de
-
-::: 
-
-## Kosten
-
-::: tip 
-
-#### Allgemein
-
-- Regelmäßig fallen bei uns Beiträge für die Mitgliedschaft in unserem Hauptverein, der TG Witten, und der Abteilung an (siehe Mitgliedsbeiträge)
-- Einmalig müsst ihr in einen Karateanzug investieren. (In den ersten Wochen reicht aber normales Sportzeug.) *Ein Karateanzug kostet ca. 20€ bis 60€.*
-- Die Teilnahme an den Gürtelprüfungen ist freiwillig. *Die Prüfungsgebühr beträgt 12€ bis 18 Jahre / 15€ ab 18 Jahren.*
-- Nach Bestehen einer Prüfung braucht ihr natürlich einen neuen Gürtel mit eurer aktuellen Gurtfarbe. *Ein Gürtel kostet ca. 6€.*
-- Falls ihr zu Lehrgängen und/oder Turnieren fahren möchtet, fallen dafür auch entsprechende Kosten an.
+Alles zum Anfängerkurs findest Du hier [www.karate-witten.de]()
 
 :::
 
-::: tip 
+## Kosten
+
+::: tip
+
+#### Allgemein
+
+* Regelmäßig fallen bei uns Beiträge für die Mitgliedschaft in unserem Hauptverein, der TG Witten, und der Abteilung an (siehe Mitgliedsbeiträge)
+* Einmalig müsst ihr in einen Karateanzug investieren. (In den ersten Wochen reicht aber normales Sportzeug.) _Ein Karateanzug kostet ca. 20€ bis 60€._
+* Die Teilnahme an den Gürtelprüfungen ist freiwillig. _Die Prüfungsgebühr beträgt 12€ bis 18 Jahre / 15€ ab 18 Jahren._
+* Nach Bestehen einer Prüfung braucht ihr natürlich einen neuen Gürtel mit eurer aktuellen Gurtfarbe. _Ein Gürtel kostet ca. 6€._
+* Falls ihr zu Lehrgängen und/oder Turnieren fahren möchtet, fallen dafür auch entsprechende Kosten an.
+
+:::
+
+::: tip
 
 #### Mitgliedsbeiträge
 
-- Kinder und Jugendliche bis 18 Jahre: 6€ / Monat
-- Erwachsene: 12€ / Monat + 20€ / Jahr Verzehrumlage
-- Ehepaare/Familien: 17€ / Monat
-- Sozialbeitrag: 6€ / Monat
-- Passivbeitrag: 40€ / Jahr
+* Kinder und Jugendliche bis 18 Jahre: 6€ / Monat
+* Erwachsene: 12€ / Monat + 20€ / Jahr Verzehrumlage
+* Ehepaare/Familien: 17€ / Monat
+* Sozialbeitrag: 6€ / Monat
+* Passivbeitrag: 40€ / Jahr
 
 :::
 
@@ -63,17 +59,17 @@ Wenn Du informiert werden möchtest, wann der nächste Einstieg stattfindet, sch
 
 Diese beiden Formulare benötigt Ihr für die Anmeldung; gib beide, zusammen mit möglichen weiteren Unterlagen, bei Deinem Trainer / Deiner Trainerin ab:
 
-- <a href='/media/TGW-Aufnahmeantrag.pdf' target='_blank'>Aufnahmeantrag</a>
-- <a href='/media/TGW-Karate-Datenformular.pdf' target='_blank'>Datenformular zum Aufnahmeantrag</a>
+* <a href='/media/TGW-Aufnahmeantrag.pdf' target='_blank'>Aufnahmeantrag</a>
+* <a href='/media/TGW-Karate-Datenformular.pdf' target='_blank'>Datenformular zum Aufnahmeantrag</a>
 
 Uns ist es wichtig, daß Du Dich bewusst entscheidest Karate-Do bei uns zu trainieren, daher hier zwei weitere Infoblätter für Dich:
 
-- <a href='/media/TGW-Karate-Info-Anfaenger.pdf' target='_blank'>Infoblatt für Anfänger</a>
-- <a href='/media/TGW-Karate-Infoblatt.pdf' target='_blank'>Infoblatt zur Mitgliedschaft</a>
+* <a href='/media/TGW-Karate-Info-Anfaenger.pdf' target='_blank'>Infoblatt für Anfänger</a>
+* <a href='/media/TGW-Karate-Infoblatt.pdf' target='_blank'>Infoblatt zur Mitgliedschaft</a>
 
 Möchtest oder kannst Du nicht mehr länger bei uns Mitglied sein:
 
-- <a href='/media/TGW-Kündigung-der-Mitgliedschaft.pdf' target='_blank'>Kündigung der Mitgliedschaft</a>
+* <a href='/media/TGW-Kündigung-der-Mitgliedschaft.pdf' target='_blank'>Kündigung der Mitgliedschaft</a>
 
 :::
 
@@ -87,7 +83,7 @@ Selbstverständlich könnt Ihr Anzüge aus anderen Kampfsportarten vorerst weite
 
 :::
 
-*Für die Karate-Prüfungen ist ein weißer Kampfsportanzug verpflichtend. Ab der Prüfung zum 6. Kyu (grüner Gurt) sollte es auch wirklich ein Karate-Gi sein!*
+_Für die Karate-Prüfungen ist ein weißer Kampfsportanzug verpflichtend. Ab der Prüfung zum 6. Kyu (grüner Gurt) sollte es auch wirklich ein Karate-Gi sein!_
 
 #### Die Bestellgröße eures Karate-Gi
 
@@ -101,11 +97,11 @@ Gürtel richtig binden, Karate-Gi gekonnt zusammenlegen; diese und weitere Ferti
 
 ::: tip
 
-Wir empfehlen allen 13 bis 35 jährigen, fortgeschrittenen Karatekas (ab dem 8. Kyu / gelber Gurt) sich - gemäß der bestehenden Prüfungsordnung - folgende Jiyu-Kumite-Ausrüstungen zuzulegen: 
+Wir empfehlen allen 13 bis 35 jährigen, fortgeschrittenen Karatekas (ab dem 8. Kyu / gelber Gurt) sich - gemäß der bestehenden Prüfungsordnung - folgende Jiyu-Kumite-Ausrüstungen zuzulegen:
 
-- Zahnschutz
-- Faustschützer
-- geschlechtsspezifisch einen Brust- bzw. einen Tiefschutz
+* Zahnschutz
+* Faustschützer
+* geschlechtsspezifisch einen Brust- bzw. einen Tiefschutz
 
 :::
 
