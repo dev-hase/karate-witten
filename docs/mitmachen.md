@@ -4,19 +4,6 @@ sidebar: true
 ---
 # Einfach mitmachen...
 
-## ...schau doch mal rein!
-
-::: warning
-
-Du kannst jederzeit **kostenlos und unverbindlich** an unserem Karatetraining teilnehmen und dabei Karate, das Trainerteam und die ganze Karate-Gruppe kennenlernen.
-
-**Zudem findet regelmäßig ein Schnupperkurs für Anfänger statt, den wir für einen Einstieg besonders empfehlen!** Ideal ist es dann natürlich von Anfang an dabei zu sein, trotzdem ist ein Einstieg auch in den Wochen danach noch möglich.
-
-Für die Trainingseinheiten musst Du nicht viel mitbringen: Wenn Du keinen Karate-Gi hast, genügen als Kleidung eine Sporthose und ein Sport- oder T-Shirt. Turnschuhe sind nicht nötig, denn wir trainieren barfuss. Ratsam ist auf jeden Fall genügend Getränke dabei zu haben - wir bitten nur darum, keine Glasflaschen zu benutzen.
-
-Und alles andere gehen wir dann gemeinsam in den Trainingseinheiten an!
-:::
-
 ## Anfängerkurs
 
 ::: warning
