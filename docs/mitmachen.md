@@ -8,7 +8,7 @@ sidebar: true
 
 ::: warning
 
-Alles zum Anfängerkurs findest Du hier [www.karate-witten.de]()
+Alles zum Anfängerkurs findest Du hier [www.karate-witten.de](www.karate-witten.de)
 
 :::
 
