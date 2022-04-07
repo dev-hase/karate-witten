@@ -47,7 +47,7 @@ sidebar: false
 
 <div class="custom-block warning"><p class="custom-block-title">WARNING</p> <p><a href="./media/Protokoll-Abteilungsversammlung-2021.pdf" target="_blank">Protokoll Abteilungsversammlung 2021</a></p> <p><a href="./media/JHV-2022_Einladung.pdf" target="_blank">Einladung Jahreshauptversammlung 2021</a></p></div>
 
-<div class="custom-block warning"><p class="custom-block-title">WARNING</p> <p><a href="./media/Protokoll-Abteilungsversammlung-2020.pdf" target="_blank">Protokoll Abteilungsversammlung 2020</a></p> <p><a href="./media/JHV-2021_Einladung.pdf" target="_blank">Einladung Jahreshauptversammlung 2021</a></p></div>
+<div class="custom-block warning"><p class="custom-block-title">WARNING</p> <p><a href="./media/Protokoll-Abteilungsversammlung-2021.pdf" target="_blank">Protokoll Abteilungsversammlung 2021</a></p> <p><a href="./media/JHV-2022_Einladung.pdf" target="_blank">Einladung Jahreshauptversammlung 2021</a></p> <p><a href="./media/Protokoll-Abteilungsversammlung-2020.pdf" target="_blank">Protokoll Abteilungsversammlung 2020</a></p> <p><a href="./media/JHV-2021_Einladung.pdf" target="_blank">Einladung Jahreshauptversammlung 2021</a></p></div>
 
 <h1 id="zum-vormerken"><a href="#zum-vormerken" class="header-anchor">#</a> Zum Vormerken...</h1>
 
