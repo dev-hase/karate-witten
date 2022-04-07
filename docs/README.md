@@ -5,11 +5,7 @@ heroImage: "/media/roland_auswahl_03.jpg"
 sidebar: false
 
 ---
-<h1 id="zum-vormerken"><a href="#zum-vormerken" class="header-anchor"></a> Zum Vormerken ...</h1>
-
-<div class="custom-block warning"> <h2 id="jahreshauptversammlung-abteilung-karate-do-der-tg-witten"><a href="#jahreshauptversammlung-abteilung-karate-do-der-tg-witten" class="header-anchor">#</a> Jahreshauptversammlung - Abteilung Karate-Do der TG Witten</h2> <p><strong>01. März, Dienstag</strong> von 19:00 Uhr (bis voraussichtlich 20:30 Uhr) im Matchball der TG Witten (Jahnstr. 11, 58455 Witten)</p> </div>
-
-<div class="theme-default-content custom content__default"><h1 id="aktuell"><a href="#aktuell" class="header-anchor">#</a><p> Aktuell</h1></p> </div>
+<div class="theme-default-content custom content__default"><h1 id="aktuell"><a href="#aktuell" class="header-anchor">#</a> Aktuell</h1> </div>
 
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Januar 2022</em></p> <h2 id="start-in-das-karate-jahr-2022"><a href="#start-in-das-karate-jahr-2022" class="header-anchor">#</a> Start in das Karate-Jahr 2022</h2> <p>Die Karate-Abteilung der TG Witten startet nach der Weihnachtspause im neuen Jahr wieder mit ihrem Gōjū-Ryū Karate-Dō Training. Nach den geltenden Coronaschutzregeln können die Erwachsenen am 11. Januar um 19:30 Uhr in der kleinen Jahnhalle an der Jahnstraße trainieren. Für die Schülerinnen und Schüler geht es ebenfalls in der kleinen Jahnhalle am 13. Januar um 17:30 Uhr los. Die Junioren können eine Stunde später in der kleine Jahnhalle in das neue Karate-Jahr starten. Ein Anfängerkurs für Junioren und Erwachsene startet im Februar. Der genaue Termin wird noch bekannt gegeben, vorab kann man sich unter active@karatewitten.de dazu anmelden.</p></div>
 
@@ -47,7 +43,11 @@ sidebar: false
 
 <h1 id="downloads"><a href="#downloads" class="header-anchor">#</a> Downloads</h1> <div class="custom-block warning"><p class="custom-block-title">WARNING</p> <p><a href="[https://karate-witten.netlify.app/media/Protokoll-Abteilungsversammlung-2020.pdf](https://karate-witten.netlify.app/media/Protokoll-Abteilungsversammlung-2020.pdf "https://karate-witten.netlify.app/media/Protokoll-Abteilungsversammlung-2020.pdf")" target="_blank">Protokoll Abteilungsversammlung 2020</a></p> <p><a href="[https://karate-witten.netlify.app/media/JHV-2021_Einladung.pdf](https://karate-witten.netlify.app/media/JHV-2021_Einladung.pdf "https://karate-witten.netlify.app/media/JHV-2021_Einladung.pdf")" target="_blank">Einladung Jahreshauptversammlung 2021</a></p></div>
 
-<h1 id="zum-vormerken"><a href="#zum-vormerken" class="header-anchor">#</a> Zum Vormerken...</h1> <div class="custom-block warning"><p class="custom-block-title">WARNING</p> <h2 id="jahreshauptversammlung-abteilung-karate-do-der-tg-witten"><a href="#jahreshauptversammlung-abteilung-karate-do-der-tg-witten" class="header-anchor">#</a> Jahreshauptversammlung - Abteilung Karate-Do der TG Witten</h2> <p><strong>27. April, Dienstag</strong> von 19:00 Uhr (bis voraussichtlich 20:30 Uhr) per Zoom</p> <p>Eine Einladung mit Ort, Zeit, Agenda und Veranstaltungsform erhaltet Ihr in den nächsten Tagen.</p></div>
+<h1 id="zum-vormerken"><a href="#zum-vormerken" class="header-anchor">#</a> Zum Vormerken...</h1>
+
+<div class="custom-block warning"> <h2 id="jahreshauptversammlung-abteilung-karate-do-der-tg-witten"><a href="#jahreshauptversammlung-abteilung-karate-do-der-tg-witten" class="header-anchor">#</a> Jahreshauptversammlung - Abteilung Karate-Do der TG Witten</h2> <p><strong>01. März, Dienstag</strong> von 19:00 Uhr (bis voraussichtlich 20:30 Uhr) im Matchball der TG Witten (Jahnstr. 11, 58455 Witten)</p> </div>
+
+<div class="custom-block warning"><p class="custom-block-title">WARNING</p> <h2 id="jahreshauptversammlung-abteilung-karate-do-der-tg-witten"><a href="#jahreshauptversammlung-abteilung-karate-do-der-tg-witten" class="header-anchor">#</a> Jahreshauptversammlung - Abteilung Karate-Do der TG Witten</h2> <p><strong>27. April, Dienstag</strong> von 19:00 Uhr (bis voraussichtlich 20:30 Uhr) per Zoom</p> <p>Eine Einladung mit Ort, Zeit, Agenda und Veranstaltungsform erhaltet Ihr in den nächsten Tagen.</p></div>
 
 <div class="custom-block warning"><p class="custom-block-title">WARNING</p> <h2 id="jahreshauptversammlung-tg-witten"><a href="#jahreshauptversammlung-tg-witten" class="header-anchor">#</a> Jahreshauptversammlung - TG Witten</h2> <p><strong>28. Mai, Freitag</strong></p> <p>Näheres folgt, sobald es uns bekannt ist.</p></div>
 
