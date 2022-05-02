@@ -7,11 +7,7 @@ sidebar: false
 ---
 <h1> Aktuell</h1>
 
-<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Mai 2022</em></p> <h2 id="stadtradeln"><a href="#stadtradeln" class="header-anchor">#</a> Stadtradeln</h2> <p><p>Du machst Karate und fährst Fahrrad?
-
-Dann mach mit beim STADTRADELN und tritt unserem Team
-
-<p><strong>Karate-Do TG Witten</strong></p> bei. </p>
+<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Mai 2022</em></p> <h2 id="stadtradeln"><a href="#stadtradeln" class="header-anchor">#</a> Stadtradeln</h2> <p><p>Du machst Karate und fährst Fahrrad? Dann mach mit beim STADTRADELN und tritt unserem Team <p><strong>Karate-Do TG Witten</strong></p> bei. </p>
 
 <p><strong>Wann wird geradelt?</strong></p>
 
