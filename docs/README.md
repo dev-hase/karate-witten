@@ -7,6 +7,34 @@ sidebar: false
 ---
 <h1> Aktuell</h1>
 
+<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Mai 2022</em></p> <h2 id="stadtradeln"><a href="#stadtradeln" class="header-anchor">#</a> Stadtradeln</h2> <p><p>Du machst Karate und fährst Fahrrad?
+
+Dann mach mit beim STADTRADELN und tritt unserem Team
+
+<p><strong>Karate-Do TG Witten</strong></p> bei. </p>
+
+<p><strong>Wann wird geradelt?</strong></p>
+
+Vom 16.05. – 05.06.2022
+
+<p><strong>Wer kann teilnehmen? </strong></p>
+
+Alle, die in der Stadt Witten im Ennepe-Ruhr-Kreis wohnen, arbeiten, einem Verein angehören, können beim STADTRADELN mitmachen.
+
+<p><strong>Wo kann man sich anmelden?</strong></p>
+
+[https://www.stadtradeln.de/registrieren](https://www.stadtradeln.de/registrieren "https://www.stadtradeln.de/registrieren")
+
+<p><strong>Wie kann ich mitmachen?</strong></p>
+
+Zugelassen sind alle Fahrzeuge, die im Sinne der StVZO als Fahrräder gelten.
+
+<p><strong>Noch Fragen?</strong></p>
+
+Dann sprecht gerne Birgit (birgit.neugebauer@karate-witten.de) oder Christian (christian.bethfuehr@karate-witten.de) an. Viele weitere Infos findet man auch unter www.stadtradeln.de
+
+Über Eure Teilnahme würden wir uns freuen!</p></div>
+
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>April 2022</em></p> <h2 id="training-osterferien"><a href="#training-osterferien-2022" class="header-anchor">#</a> Training in den Osterferien 2022</h2> <p><p>In den Osterferien (9. - 24. April) bieten wir ein besonderes Training für Euch an:</p>
 
 <p><strong>Schüler:</strong></p>
