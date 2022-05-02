@@ -29,6 +29,8 @@ Zugelassen sind alle Fahrzeuge, die im Sinne der StVZO als Fahrräder gelten.
 
 Dann sprecht gerne Birgit (birgit.neugebauer@karate-witten.de) oder Christian (christian.bethfuehr@karate-witten.de) an. Viele weitere Infos findet man auch unter www.stadtradeln.de
 
+<p>Der Info-Brief zum Downloaden: <a href="./media/Info-Brief 2022-04-28 Stadtradeln-HP.pdf" target="_blank">Info_Stadtradeln</a></p>
+
 Über Eure Teilnahme würden wir uns freuen!</p></div>
 
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>April 2022</em></p> <h2 id="training-osterferien"><a href="#training-osterferien-2022" class="header-anchor">#</a> Training in den Osterferien 2022</h2> <p><p>In den Osterferien (9. - 24. April) bieten wir ein besonderes Training für Euch an:</p>
