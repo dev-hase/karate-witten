@@ -29,7 +29,7 @@ Zugelassen sind alle Fahrzeuge, die im Sinne der StVZO als Fahrräder gelten.
 
 Dann sprecht gerne Birgit (birgit.neugebauer@karate-witten.de) oder Christian (christian.bethfuehr@karate-witten.de) an. Viele weitere Infos findet man auch unter www.stadtradeln.de
 
-<p>Der Info-Brief zum Downloaden: <a href="./media/Info-Brief-2022-04-28-Stadtradeln-HP.pdf" target="_blank">Info_Stadtradeln</a></p>
+<p>Der Info-Brief zum Downloaden: <a href="./media/info-brief-2022-04-28-stadtradeln-hp.pdf" target="_blank">Info_Stadtradeln</a></p>
 
 Über Eure Teilnahme würden wir uns freuen!</p></div>
 
