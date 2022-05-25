@@ -71,9 +71,8 @@ Ansprechpartner: Ralf Budde
 
 #### (ab 14 und orangenem Gürtel)
 
-_Aktuell keine regelmäßige Trainingszeit!_
-
-Derzeit können wir leider keine separate Trainingszeit anbieten. Wir informieren, sobald dies wieder möglich ist.
+Freitags  
+19:30–21:00 Uhr
 
 Turnhalle Overbergschule
 
