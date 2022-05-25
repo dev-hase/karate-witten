@@ -20,7 +20,7 @@ Donnerstags
 17:30–18:30 Uhr
 kleine Jahnhalle
 
-Ansprechpartnerin: Birgit Neugebauer
+Ansprechpartnerin: Martina Mainz
 
 :::
 
