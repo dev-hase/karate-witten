@@ -7,11 +7,11 @@ sidebar: false
 ---
 <h1> Aktuell</h1>
 
-<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Juni 2022</em></p> <h2 id="kyu-prufung"><a href="#kyu-prufung" class="header-anchor">#</a> Kyu-Prüfung 12. Juni 2022</h2> <p><p>Du machst Karate und fährst Fahrrad? Dann mach mit beim STADTRADELN und tritt unserem Team <p><strong>Karate-Do TG Witten</strong> bei.</p> </p>
+<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Juni 2022</em></p> <h2 id="kyu-prufung"><a href="#kyu-prufung" class="header-anchor">#</a> Kyu-Prüfung 12. Juni 2022</h2>
 
-<p><strong>Sonntag, 12. Juni: Die nächste Kyu-Prüfung (Gürtelprüfung) findet in der kleinen Jahn-Halle (Eduard-Schröder-Halle) statt.</strong><p> Einlass für unsere Schülergruppe ist 11 Uhr - bitte seid pünktlich! </p> <p>Einlass für unserer Junioren- und für unsere Erwachsenengruppe ist 13 Uhr - bitte seid pünktlich! </p> Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Verwendungszwecke können unter anderem die Veröffentlichung auf Sozialen Medien (Facebook, etc), Homepage, Presse oder Druckprodukten sein. <p>Bitte denkt an die Prüfungsgebühr und die fortgeschrittenen Karatekas an ihren Karate-Pass.</p> Selbstverständlich können im Nachgang wieder gebrauchte (2 Euro) oder neue (6 Euro) Farb-Gürtel erworben werden.
+<p><strong>Sonntag, 12. Juni:</strong> Die nächste <strong>Kyu-Prüfung (Gürtelprüfung)</strong> findet in der kleinen Jahn-Halle (Eduard-Schröder-Halle) statt.</strong><p> <strong>Einlass</strong> für unsere Schülergruppe ist <strong>11 Uhr</strong> - bitte seid pünktlich! </p> <p><strong>Einlass</strong> für unserer Junioren- und für unsere Erwachsenengruppe ist <strong>13 Uhr</strong> - bitte seid pünktlich! </p> Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Verwendungszwecke können unter anderem die Veröffentlichung auf Sozialen Medien (Facebook, etc), Homepage, Presse oder Druckprodukten sein. <p>Bitte denkt an die Prüfungsgebühr und die fortgeschrittenen Karatekas an ihren Karate-Pass.</p> Selbstverständlich können im Nachgang wieder gebrauchte (2 Euro) oder neue (6 Euro) Farb-Gürtel erworben werden.
 
-<p>Der Info-Brief zum Downloaden: <a href="./media/Info-Brief 2022-06-12 Kyu-Prüfung.pdf" target="_blank">Info_Kyu-Prüfung</a></p>
+<p>Der Info-Brief zum Downloaden: <a href="./media/info-brief-2022-06-12-kyu-prufung.pdf" target="_blank">Info_Kyu-Prüfung</a></p>
 
 Über Eure Teilnahme würden wir uns freuen!</p></div>
 
