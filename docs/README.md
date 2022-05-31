@@ -11,9 +11,7 @@ sidebar: false
 
 <p><strong>Sonntag, 12. Juni:</strong> Die nächste <strong>Kyu-Prüfung (Gürtelprüfung)</strong> findet in der kleinen Jahn-Halle (Eduard-Schröder-Halle) statt.</strong><p> <strong>Einlass</strong> für unsere Schülergruppe ist <strong>11 Uhr</strong> - bitte seid pünktlich! </p> <p><strong>Einlass</strong> für unserer Junioren- und für unsere Erwachsenengruppe ist <strong>13 Uhr</strong> - bitte seid pünktlich! </p> Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Verwendungszwecke können unter anderem die Veröffentlichung auf Sozialen Medien (Facebook, etc), Homepage, Presse oder Druckprodukten sein. <p>Bitte denkt an die Prüfungsgebühr und die fortgeschrittenen Karatekas an ihren Karate-Pass.</p> Selbstverständlich können im Nachgang wieder gebrauchte (2 Euro) oder neue (6 Euro) Farb-Gürtel erworben werden.
 
-<p>Der Info-Brief zum Downloaden: <a href="./media/info-brief-2022-06-12-kyu-prufung.pdf" target="_blank">Info_Kyu-Prüfung</a></p>
-
-Über Eure Teilnahme würden wir uns freuen!</p></div>
+<p>Der Info-Brief zum Downloaden: <a href="./media/info-brief-2022-06-12-kyu-prufung.pdf" target="_blank">Info_Kyu-Prüfung</a></p></div>
 
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Mai 2022</em></p> <h2 id="stadtradeln"><a href="#stadtradeln" class="header-anchor">#</a> Stadtradeln</h2> <p><p>Du machst Karate und fährst Fahrrad? Dann mach mit beim STADTRADELN und tritt unserem Team <p><strong>Karate-Do TG Witten</strong> bei.</p> </p>
 
