@@ -7,6 +7,18 @@ sidebar: false
 ---
 <h1> Aktuell</h1>
 
+<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>August 2022</em></p> <h2 id="anfaengerkurs"><a href="#anfaengerkurs" class="header-anchor">#</a> Anfängerkurs</h2>
+
+<p><strong>Karate-Anfängerkurs für Jugendliche und Erwachsene</strong></p> <p>Die Karate-Abteilung der Turngemeinde Witten bietet erneut einen Anfängerkurs an. Teilnehmen können alle Interessierten ohne Vorkenntnisse ab 13 Jahren.
+
+An zwei Samstagen werden die Teilnehmer in die verschiedenen Elemente des Karate-Do eingeführt und lernen erste Techniken und Bewegungen kennen.
+
+Im Anschluss an den Kurs ist der Einstieg in die Karate-Trainingsgruppen der TG Witten möglich (Junioren: 13 - 17 Jahre; Erwachsene ab 18 Jahre). Im September ist das Training kostenfrei.
+
+<strong>Termine:</strong> 27.08. und 03.09.2022, jeweils 14-17 Uhr. <strong>Ort:</strong> Kleine Jahnhalle, Jahnstraße 11. <strong>Kosten:</strong> 20 Euro. Anmeldung bis zum 21. August unter Angabe des Namens und des Alters per E-Mail an <strong>active@karate-witten.de</strong>. Weitere Infos erhalten die angemeldeten Teilnehmer in der Woche vor Kursbeginn.</p>
+
+</div>
+
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>Juni 2022</em></p> <h2 id="kyu-prufung"><a href="#kyu-prufung" class="header-anchor">#</a> Kyu-Prüfung 12. Juni 2022</h2>
 
 <p><strong>Sonntag, 12. Juni:</strong> Die nächste <strong>Kyu-Prüfung (Gürtelprüfung)</strong> findet in der kleinen Jahn-Halle (Eduard-Schröder-Halle) statt.</strong><p> <strong>Einlass</strong> für unsere Schülergruppe ist <strong>11 Uhr</strong> - bitte seid pünktlich! </p> <p><strong>Einlass</strong> für unserer Junioren- und für unsere Erwachsenengruppe ist <strong>13 Uhr</strong> - bitte seid pünktlich! </p> Auf der Veranstaltung werden Film- und Tonaufnahmen sowie Fotos gemacht, mit deren auch späteren Verwendung Sie sich durch den Besuch der Veranstaltung einverstanden erklären. Verwendungszwecke können unter anderem die Veröffentlichung auf Sozialen Medien (Facebook, etc), Homepage, Presse oder Druckprodukten sein. <p>Bitte denkt an die Prüfungsgebühr und die fortgeschrittenen Karatekas an ihren Karate-Pass.</p> Selbstverständlich können im Nachgang wieder gebrauchte (2 Euro) oder neue (6 Euro) Farb-Gürtel erworben werden.
