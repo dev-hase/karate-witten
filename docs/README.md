@@ -15,7 +15,7 @@ An zwei Samstagen werden die Teilnehmer in die verschiedenen Elemente des Karate
 
 Im Anschluss an den Kurs ist der Einstieg in die Karate-Trainingsgruppen der TG Witten möglich (Junioren: 13 - 17 Jahre; Erwachsene ab 18 Jahre). Im September ist das Training kostenfrei.
 
-<strong>Termine:</strong> 27.08. und 03.09.2022, jeweils 14-17 Uhr. <strong>Ort:</strong> Kleine Jahnhalle, Jahnstraße 11. <strong>Kosten:</strong> 20 Euro. Anmeldung bis zum 21. August unter Angabe des Namens und des Alters per E-Mail an <strong>active@karate-witten.de</strong>. Weitere Infos erhalten die angemeldeten Teilnehmer in der Woche vor Kursbeginn.</p>
+<strong>Termine:</strong> 27.08. und 03.09.2022, jeweils 14-17 Uhr. <strong>Ort:</strong> Kleine Jahnhalle, Jahnstraße 11. <strong>Kosten:</strong> 20 Euro.</p> <p>Anmeldung bis zum 21. August unter Angabe des Namens und des Alters per E-Mail an <strong>active@karate-witten.de</strong>. Weitere Infos erhalten die angemeldeten Teilnehmer in der Woche vor Kursbeginn.</p>
 
 </div>
 
