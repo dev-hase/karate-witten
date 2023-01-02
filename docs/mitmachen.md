@@ -46,8 +46,8 @@ Alles zum Anfängerkurs findest Du hier [www.karate-witten.de](https://www.karat
 
 Diese beiden Formulare benötigt Ihr für die Anmeldung; gib beide, zusammen mit möglichen weiteren Unterlagen, bei Deinem Trainer / Deiner Trainerin ab:
 
-* <a href='/media/TGW-Aufnahmeantrag.pdf' target='_blank'>Aufnahmeantrag</a>
-* <a href='/media/TGW-Karate-Datenformular.pdf' target='_blank'>Datenformular zum Aufnahmeantrag</a>
+* <a href='/media/TGW-Aufnahmeantrag-2023.pdf' target='_blank'>Aufnahmeantrag</a>
+* <a href='/media/TGW-Karate-Datenformular-2023.pdf' target='_blank'>Datenformular zum Aufnahmeantrag</a>
 
 Uns ist es wichtig, daß Du Dich bewusst entscheidest Karate-Do bei uns zu trainieren, daher hier zwei weitere Infoblätter für Dich:
 
