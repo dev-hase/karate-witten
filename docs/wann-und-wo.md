@@ -69,16 +69,10 @@ Ansprechpartner: Ralf Budde
 
 ::: tip
 
-Freitags
-18:30–19:30 Uhr
-Turnhalle der Overbergschule
-
-Ansprechpartner: Ralf Budde
-
 #### (ab 14 und orangenem Gürtel)
 
 Freitags  
-19:30–21:00 Uhr
+18:30–21:00 Uhr
 
 Turnhalle Overbergschule
 
