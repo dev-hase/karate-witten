@@ -49,17 +49,17 @@ Ansprechpartner: Ralf Baier
 #### ab 18
 
 Dienstags
-19:30–21:00 Uhr
+19:30–21:15 Uhr
 kleine Jahnhalle
 
 Freitags
-19:30–21:00 Uhr
+19:30–21:15 Uhr
 Turnhalle der Overbergschule
 
 zusätzlich Freitags
 18:30–19:30 Uhr
 Turnhalle der Overbergschule
-für fortgeschrittene Karateka (ab 3. Kyu)
+Freies Training
 
 Ansprechpartner: Ralf Budde
 
@@ -68,6 +68,12 @@ Ansprechpartner: Ralf Budde
 ### Kobudo
 
 ::: tip
+
+Freitags
+18:30–19:30 Uhr
+Turnhalle der Overbergschule
+
+Ansprechpartner: Ralf Budde
 
 #### (ab 14 und orangenem Gürtel)
 
