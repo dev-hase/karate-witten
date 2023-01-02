@@ -49,7 +49,7 @@ Diese beiden Formulare benötigt Ihr für die Anmeldung; gib beide, zusammen mit
 * <a href='/media/TGW-Aufnahmeantrag-2023.pdf' target='_blank'>Aufnahmeantrag</a>
 * <a href='/media/TGW-Karate-Datenformular-2023.pdf' target='_blank'>Datenformular zum Aufnahmeantrag</a>
 
-Uns ist es wichtig, daß Du Dich bewusst entscheidest Karate-Do bei uns zu trainieren, daher hier zwei weitere Infoblätter für Dich:
+Uns ist es wichtig, daß Du Dich bewusst entscheidest Karate-Do bei uns zu trainieren, daher hier zwei weitere Infoblätter für Dich: 
 
 * <a href='/media/TGW-Karate-Info-Anfaenger.pdf' target='_blank'>Infoblatt für Anfänger</a>
 * <a href='/media/TGW-Karate-Infoblatt.pdf' target='_blank'>Infoblatt zur Mitgliedschaft</a>
