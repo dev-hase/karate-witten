@@ -72,7 +72,7 @@ Ansprechpartner: Ralf Budde
 #### (ab 14 und orangenem Gürtel)
 
 Freitags  
-18:30–21:00 Uhr
+18:30–21:00 Uhr 
 
 Turnhalle Overbergschule
 
