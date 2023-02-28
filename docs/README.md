@@ -7,13 +7,27 @@ sidebar: false
 ---
 <h1> Aktuell</h1>
 
+<div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>März 2023</em></p> <h2 id="anfaengerkurs"><a href="#anfaengerkurs" class="header-anchor">#</a> Anfängerkurs</h2>
+
+<p><strong>Karate-Anfängerkurs für Jugendliche und Erwachsene</strong></p> <p>Die Karate-Abteilung der Turngemeinde Witten bietet erneut einen Anfängerkurs an. Teilnehmen können alle Interessierten ohne Vorkenntnisse ab 13 Jahren.
+
+An zwei Samstagen werden die Teilnehmer in die verschiedenen Elemente des Karate-Do eingeführt und lernen erste Techniken und Bewegungen kennen.
+
+Im Anschluss an den Kurs ist der Einstieg in die Karate-Trainingsgruppen der TG Witten möglich (Junioren: 13 - 17 Jahre; Erwachsene ab 18 Jahre).
+
+<strong>Termine:</strong> 12.03.2023 von 13-16:15 Uhr und 19.03.2023 von 10-13:15 Uhr. <strong>Ort:</strong> Kleine Jahnhalle, Jahnstraße 11. <strong>Kosten:</strong> 20 Euro.</p> <p>Anmeldung bis zum 08. März unter Angabe des Namens und des Alters per E-Mail an <strong>active@karate-witten.de</strong>. Weitere Infos erhalten die angemeldeten Teilnehmer in der Woche vor Kursbeginn.</p>
+
+</div>
+
+/media/protokoll-abteilungsversammlung-2023.pdf
+
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>August 2022</em></p> <h2 id="anfaengerkurs"><a href="#anfaengerkurs" class="header-anchor">#</a> Anfängerkurs</h2>
 
 <p><strong>Karate-Anfängerkurs für Jugendliche und Erwachsene</strong></p> <p>Die Karate-Abteilung der Turngemeinde Witten bietet erneut einen Anfängerkurs an. Teilnehmen können alle Interessierten ohne Vorkenntnisse ab 13 Jahren.
 
 An zwei Samstagen werden die Teilnehmer in die verschiedenen Elemente des Karate-Do eingeführt und lernen erste Techniken und Bewegungen kennen.
 
-Im Anschluss an den Kurs ist der Einstieg in die Karate-Trainingsgruppen der TG Witten möglich (Junioren: 13 - 17 Jahre; Erwachsene ab 18 Jahre). Im September ist das Training kostenfrei.
+Im Anschluss an den Kurs ist der Einstieg in die Karate-Trainingsgruppen der TG Witten möglich (Junioren: 13 - 17 Jahre; Erwachsene ab 18 Jahre).
 
 <strong>Termine:</strong> 27.08. und 03.09.2022, jeweils 14-17 Uhr. <strong>Ort:</strong> Kleine Jahnhalle, Jahnstraße 11. <strong>Kosten:</strong> 20 Euro.</p> <p>Anmeldung bis zum 21. August unter Angabe des Namens und des Alters per E-Mail an <strong>active@karate-witten.de</strong>. Weitere Infos erhalten die angemeldeten Teilnehmer in der Woche vor Kursbeginn.</p>
 
