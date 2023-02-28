@@ -19,8 +19,6 @@ Im Anschluss an den Kurs ist der Einstieg in die Karate-Trainingsgruppen der TG 
 
 </div>
 
-/media/protokoll-abteilungsversammlung-2023.pdf
-
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>August 2022</em></p> <h2 id="anfaengerkurs"><a href="#anfaengerkurs" class="header-anchor">#</a> Anfängerkurs</h2>
 
 <p><strong>Karate-Anfängerkurs für Jugendliche und Erwachsene</strong></p> <p>Die Karate-Abteilung der Turngemeinde Witten bietet erneut einen Anfängerkurs an. Teilnehmen können alle Interessierten ohne Vorkenntnisse ab 13 Jahren.
