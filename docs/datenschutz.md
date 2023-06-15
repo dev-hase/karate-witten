@@ -1,4 +1,5 @@
 ---
+title: "datenschutz"
 sidebar: auto
 ---
 

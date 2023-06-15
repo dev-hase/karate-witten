@@ -4,10 +4,12 @@
     "vuepress": "^1.8.0"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "tinacms dev -c \"vuepress dev docs\"",
+    "docs:build": "tinacms build && vuepress build docs"
   },
   "dependencies": {
+    "@tinacms/cli": "^1.5.19",
+    "tinacms": "^1.5.10",
     "vue-rellax": "^0.2.0",
     "vue-simple-alert": "^1.1.1"
   }

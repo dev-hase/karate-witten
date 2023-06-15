@@ -1,11 +1,12 @@
 ---
+title: Startseite
 home: true
 pageClass: landingPage
-heroImage: "/media/roland_auswahl_03.jpg"
+heroImage: /media/roland_auswahl_03.jpg
 sidebar: false
-
 ---
-<h1> Aktuell</h1>
+
+<h1>Aktuell</h1>
 
 <div class="custom-block tip"><p class="custom-block-title">TIP</p> <p><em>März 2023</em></p> <h2 id="anfaengerkurs"><a href="#anfaengerkurs" class="header-anchor">#</a> Anfängerkurs</h2>
 
