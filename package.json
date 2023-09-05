@@ -5,7 +5,7 @@
   },
   "scripts": {
     "docs:dev": "tinacms dev -c \"vuepress dev docs\"",
-    "docs:build": "tinacms build && \"vuepress dev docs\""
+    "docs:build": "tinacms build && vuepress dev docs"
   },
   "dependencies": {
     "@tinacms/cli": "^1.5.19",
