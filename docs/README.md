@@ -11,5 +11,5 @@ sidebar: false
 <p>Diese Seite wird nicht mehr aktualisiert.</p>
 
 <p>
-<a href="https:/karate-witten-v3.netlify.app">Klicke hier für eine aktuelle Version!</a>
+<a href="https://karate-witten-v3.netlify.app/">Klicke hier für eine aktuelle Version!</a>
 </p>
