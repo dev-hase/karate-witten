@@ -29,22 +29,14 @@
     <section class='linkList'>
       <router-link :to="'/wiki.html'" class="hideFooterLink">
         Wiki
-      </router-link>   
-      <router-link :to="'/wann-und-wo.html'" class="hideFooterLink">
-        Zeiten
       </router-link>  
-      <router-link :to="'/about.html#kontakt'">
-        Kontakt
-      </router-link>  
-      <router-link :to="'/mitmachen.html'" class="hideFooterLink">
-        Mitmachen
-      </router-link>  
+
       <router-link :to="'/impressum.html'">
         Impressum
-      </router-link>  
+      </router-link>
       <router-link :to="'/datenschutz.html'">
         Datenschutz
-      </router-link>  
+      </router-link>
 
     </section>
   </footer>

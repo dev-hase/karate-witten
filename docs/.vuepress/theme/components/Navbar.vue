@@ -35,15 +35,12 @@
           :src="'/img/wiki.png'"
           :alt="'Wiki'"
         >
-      </RouterLink> 
-    
-      <AlgoliaSearchBox
-        v-if="isAlgoliaSearch"
-        :options="algolia"
-      />
-      <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
+      </RouterLink>
+
+
+
       <NavLinks class="can-hide" />
-      
+
     </div>
   </header>
 </template>

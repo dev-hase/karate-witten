@@ -35,13 +35,10 @@ module.exports = {
   ],
 
   themeConfig: {
-  
+
   	displayAllHeaders: true,
   	logo: '/img/logo.png',
   	nav: [
-        { text: 'über uns', link: '/about.html' },
-        { text: 'wann und wo', link: '/wann-und-wo.html' },
-        { text: 'mitmachen', link: '/mitmachen.html' },
         { text: 'Wiki', link: '/wiki.html' },
 
     ],
@@ -99,7 +96,7 @@ module.exports = {
                 ['/grundlagen/fallschule', 'Fallschule'],
                 ['/grundlagen/vitalpunkte', 'Vitalpunkte'],
             ]
-        },    
+        },
         {
             title: 'Prüfungsordnung',
             children: [
@@ -113,7 +110,7 @@ module.exports = {
                 ['/pruefung/8kyu', '8. Kyu (Gelbgurt)'],
                 ['/pruefung/9kyu', '9. Kyu (Weißgurt)'],
             ]
-        },                   
+        },
 
     ],
 

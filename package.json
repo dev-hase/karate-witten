@@ -4,8 +4,8 @@
     "vuepress": "^1.8.0"
   },
   "scripts": {
-    "docs:dev": "tinacms dev -c \"vuepress dev docs\"",
-    "docs:build": "tinacms build && vuepress dev docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
     "@tinacms/cli": "^1.5.19",
